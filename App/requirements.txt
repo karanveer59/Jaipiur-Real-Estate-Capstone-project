@@ -3,6 +3,7 @@ pickle
 pandas
 numpy
 sklearn
+plotly
 plotly.express
 plotly.graph_objects
 seaborn
