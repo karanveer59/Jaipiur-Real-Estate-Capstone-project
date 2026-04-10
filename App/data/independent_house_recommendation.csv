@@ -1,0 +1,837 @@
+,property_type,location_area,location,total_price,bhk,bath,covered_parking,open_parking,furnished_status,property_link,builtup_area
+0,house,gokulpura, Gokulpura,17500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-2600-sq-ft-independent-house-in-gokulpura/9801506,2600.0
+1,house,nirman nagar, Nirman Nagar,85000000.0,5.0,5.0,3.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-270-sq-yd-independent-house-in-nirman-nagar/9794425,1701.0
+2,house,central jaipur, Civil L,42500000.0,4.0,2.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-325-sq-yd-independent-house-in-civil-lines/9801397,2925.0
+3,house,central jaipur, Malviya Nagar,24900000.000000004,5.0,5.0,,,semi-furnished,https://www.squareyards.com/resale-5-bhk-200-sq-yd-independent-house-in-malviya-nagar/9720672,1800.0
+4,house,pratap nagar, Pratap Nagar,7800000.0,3.0,3.0,1.0,2.0,furnished,https://www.squareyards.com/resale-3-bhk-630-sq-ft-independent-house-in-pratap-nagar/9219859,630.0
+5,house,jhotwara, Jhotwara,13000000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-extra-room-981-sq-ft-independent-house-in-jhotwara/9787272,853.0
+6,house,muralipura, Muralipura,17900000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1494-sq-ft-independent-house-in-muralipura/9673774,1494.0
+7,house,central jaipur, Hathroi,6200000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1700-sq-ft-independent-house-in-hathroi/9831081,1700.0
+8,house,central jaipur, Adarsh Nagar,15000000.0,4.0,3.0,2.0,,unfurnished,https://www.squareyards.com/resale-4-bhk-500-sq-ft-independent-house-in-adarsh-nagar/9349558,500.0
+9,house,sanganer, Sanganer,55500000.0,6.0,6.0,2.0,6.0,furnished,https://www.squareyards.com/resale-6-bhk-servant-room-3000-sq-ft-independent-house-in-sanganer/9651219,3000.0
+10,house,central jaipur, Jawahar Nagar,30000000.0,3.0,2.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-study-room-1800-sq-ft-independent-house-in-jns1-h4s-bchagy/9664345,1260.0
+11,house,mansarovar, Vardhman Nagar,33000000.0,6.0,6.0,3.0,1.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-260-sq-yd-independent-house-in-individual-house/9635116,2340.0
+12,house,jagatpura, Jagatpura,17500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-study-room-2700-sq-ft-independent-house-in-jagatpura/9465714,2700.0
+13,house,hanuman nagar, Hanuman Nagar,2400000.0,2.0,1.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-2-bhk-450-sq-ft-independent-house-in-sky-palacio/9786826,450.0
+14,house,vaishali nagar, Vaishali Nagar,32600000.0,4.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-3300-sq-ft-independent-house-in-vaishali-nagar/9340321,3300.0
+15,house,agra road, Agra Road,2640000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-86-sq-yd-independent-house-in-agra-road/9600359,774.0
+16,house,mansarovar, Mansarovar,17000000.0,4.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-4-bhk-1250-sq-ft-independent-house-in-mansarovar/9273856,875.0
+17,house,vaishali nagar, Vaishali Nagar,45100000.0,6.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-5450-sq-ft-independent-house-in-dream-kothi-loins-lane/9454874,5450.0
+18,house,sirsi road, Sirsi Road,2900000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-50-sq-yd-independent-house-in-sirsi-road/9241137,450.0
+19,house,jagatpura, Jagatpura,5200000.0,2.0,1.0,,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-54-sq-yd-independent-house-in-jagatpura/9169718,422.0
+20,house,ajmer road, Ajmer Road,15100000.0,2.0,2.0,3.0,,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-350-sq-yd-independent-house-in-uttam-shyamashish-park/9021316,3150.0
+21,house,vaishali nagar, Vaishali Nagar,32500000.0,5.0,5.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-5-bhk-study-room-188-sq-yd-independent-house-in-vaishali-nagar/9245262,1692.0
+22,house,ajmer road, Ajmer Road,9000000.0,4.0,4.0,2.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-88-sq-yd-independent-house-in-122-sector-mansarovar-jai/8993623,792.0
+23,house,vaishali nagar, Vaishali Nagar,24100000.0,4.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-138-sq-yd-independent-house-in-vaishali-nagar/9072364,869.4
+24,house,jagatpura, Jagatpura,11000000.0,3.0,2.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-166-sq-yd-independent-house-in-jagatpura/8800343,1494.0
+25,house,kalwar road, Hathod,7200000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1500-sq-ft-independent-house-in-hathod/9839073,1500.0
+26,house,sirsi road, Sirsi Road,34500000.0,5.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-extra-room-5000-sq-ft-independent-house-in-jaipur-property-ndream-ho/9690496,5000.0
+27,house,ajmer road, Jaipur Ajmer Express Highway,20000000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-166-sq-yd-independent-house-in-jaipur-ajmer-express-highway/9864304,1494.0
+28,house,other, Nari Ka Bas,8200000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-study-room-extra-room-2100-sq-ft-independent-house-in-ansal-sushant-city/9877779,2100.0
+29,house,muralipura, Muralipura,17400000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1444-sq-ft-independent-house-in-muralipura/9673834,1444.0
+30,house,central jaipur, Jawahar Nagar,41000000.0,4.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-servant-room-2400-sq-ft-independent-house-in-jns44060-h4s-bchagy/9664339,1680.0
+31,house,hanuman nagar, Hanuman Nagar,2400000.0,2.0,2.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-2-bhk-450-sq-ft-independent-house-in-hanuman-nagar/9644451,450.0
+32,house,vaishali nagar, Vaishali Nagar,32500000.0,4.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-3200-sq-ft-independent-house-in-vaishali-nagar/9276709,3200.0
+33,house,agra road, Agra Road,2550000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-65-sq-yd-independent-house-in-agra-road/9600405,585.0
+34,house,jagatpura, Jagatpura,14000000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-extra-room-121-sq-yd-independent-house-in-porwal-realty/9473266,1089.0
+35,house,mansarovar, Vardhman Nagar,33000000.0,6.0,6.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-extra-room-261-sq-yd-independent-house-in-individual-house/8928549,2349.0
+36,house,sirsi road, Sirsi Road,33000000.0,5.0,6.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-4850-sq-ft-independent-house-in-luxury-kothi-with-lift-ne/9188923,4850.0
+37,house,mansarovar, Sumer Nagar,5000000.0,3.0,2.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-45-sq-yd-independent-house-in-sumer-nagar/8515569,405.0
+38,house,kalwar road, Kalwar,6200000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-2000-sq-ft-independent-house-in-kalwar/9364691,2000.0
+39,house,mansarovar, Mansarovar,55100000.0,5.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-4800-sq-ft-independent-house-in-mansarovar/9793197,4800.0
+40,house,central jaipur, Roop Vihar Colony,21500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-study-room-166-sq-yd-independent-house-in-krishna-chamber/9193683,1494.0
+41,house,kishorpura, Kishorpura,6300000.0,3.0,3.0,,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-independent-house-in-vrb-the-platinum/9877798,1800.0
+42,house,central jaipur, Adarsh Nagar,35000000.0,3.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-study-room-2250-sq-ft-independent-house-in-burco-h4s-bhargy/9285997,1575.0
+43,house,govindpura, Gov,7500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-2000-sq-ft-independent-house-in-govindpura/8485000,2000.0
+44,house,chitrakoot, Chitrakoot,66000000.0,6.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-236-sq-yd-independent-house-in-jaipur-property-n-dream-h/9217591,1486.8
+45,house,central jaipur, Hathroi,6100000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1900-sq-ft-independent-house-in-hathroi/9831210,1900.0
+46,house,muralipura, Muralipura,17000000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1402-sq-ft-independent-house-in-muralipura/9673787,1402.0
+47,house,agra road, Agra Road,2530000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-63-sq-yd-independent-house-in-agra-road/9600428,567.0
+48,house,central jaipur, Jawahar Nagar,8000000.0,2.0,2.0,,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-450-sq-ft-independent-house-in-jns7-h4s-brajsh/9285588,315.0
+49,house,vaishali nagar, Vaishali Nagar,35100000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-3000-sq-ft-independent-house-in-porwal-realty/9184399,3000.0
+50,house,sodala, Sodala,13500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-110-sq-yd-independent-house-in-sodala/9451344,990.0
+51,house,vaishali nagar, Amrapali Circle,13100000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2000-sq-ft-independent-house-in-krishna-colony/8689962,2000.0
+52,house,gandhi path, Gandhi Path,50000000.0,5.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-4400-sq-ft-independent-house-in-hastinapur/8694266,4400.0
+53,house,gokulpura, Gokulpura,13000000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-2400-sq-ft-independent-house-in-gokul-villa/8213486,2400.0
+54,house,other, Sitapura,6500000.0,4.0,4.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-study-room-133-sq-yd-independent-house-in-sachiwalya-nagar-tonk-roa/8613752,1197.0
+55,house,sodala, Sodala,27500000.0,4.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-2600-sq-ft-independent-house-in-sodala/8280359,2600.0
+56,house,ajmer road, Jaipur Ajmer Express Highway,11100000.000000002,6.0,4.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-6-bhk-100-sq-yd-independent-house-in-jaipur-ajmer-express-highway/8235143,900.0
+57,house,ajmer road, Jaipur Ajmer Express Highway,8000000.0,4.0,3.0,3.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-90-sq-yd-independent-house-in-r-k-puram-colony-sitapura/8597003,810.0
+58,house,vaishali nagar, Vaishali Nagar,52500000.0,5.0,5.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-5200-sq-ft-independent-house-in-tagore-nagar/8189639,5200.0
+59,house,sanganer, Sanganer,4000000.0,2.0,1.0,1.0,,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-134-sq-ft-independent-house-in-gokul-garden-city/8165768,134.0
+60,house,central jaipur, Shastri Nagar,70000000.0,6.0,6.0,5.0,4.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-560-sq-yd-independent-house-in-shastri-nagar/8228266,3528.0
+61,house,central jaipur, Lalkothi,16000000.0,4.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-73-sq-mt-independent-house-in-lalkothi/8891253,730.0
+62,house,vaishali nagar, Vaishali Nagar,37500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-4000-sq-ft-independent-house-in-hanuman-nagar-e/8461716,4000.0
+63,house,gandhi path, Gandhi Path,18500000.0,5.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-216-sq-yd-independent-house-in-gandhi-path/8167828,1944.0
+64,house,central jaipur, Tilak Nagar,149300000.0,6.0,6.0,5.0,4.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-711-sq-yd-independent-house-in-tilak-nagar/8273650,4479.3
+65,house,central jaipur, Gopalpura,11500000.0,3.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-extra-room-100-sq-ft-independent-house-in-gopalpura/8166456,100.0
+66,house,mansarovar, Mansarovar,22500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-1800-sq-ft-independent-house-in-mansarovar/8306277,1800.0
+67,house,vaishali nagar, Vaishali Nagar,40000000.0,5.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-4500-sq-ft-independent-house-in-jaipur-property-n-dream-home/9736793,4500.0
+68,house,nirman nagar, Nirman Nagar,70000000.0,4.0,6.0,4.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-extra-room-214-sq-yd-independent-house-in-nirman-nagar/9740470,1348.2
+69,house,hanuman nagar, Hanuman Nagar Extension,26100000.0,5.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-160-sq-yd-independent-house-in-jaipur-property-ndream-ho/9681763,1008.0
+70,house,gandhi path, Gandhi Path,37100000.0,5.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-231-sq-yd-independent-house-in-jaipur-property-ndream-ho/9687916,1455.3
+71,house,dhawas, Dhawas,41500000.0,5.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-extra-room-195-sq-yd-independent-house-in-dhawas/9749674,1228.5
+72,house,mansarovar, Mansarovar,55000000.0,5.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-extra-room-250-sq-yd-independent-house-in-mansarovar/9793122,1575.0
+73,house,vaishali nagar, Vaishali Nagar,40000000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-4500-sq-ft-independent-house-in-vaishali-nagar/9833252,4500.0
+74,house,kalwar road, Kalwar Road,800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1700-sq-ft-independent-house-in-om-sarovar/9810581,1700.0
+75,house,muralipura, Muralipura,17700000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1474-sq-ft-independent-house-in-muralipura/9673843,1474.0
+76,house,muralipura, Muralipura,17800000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1482-sq-ft-independent-house-in-muralipura/9673777,1482.0
+77,house,muralipura, Muralipura,17100000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1413-sq-ft-independent-house-in-muralipura/9673804,1413.0
+78,house,muralipura, Muralipura,17900000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1492-sq-ft-independent-house-in-muralipura/9673782,1492.0
+79,house,muralipura, Muralipura,17200000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1423-sq-ft-independent-house-in-muralipura/9673807,1423.0
+80,house,muralipura, Muralipura,17600000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1464-sq-ft-independent-house-in-muralipura/9673841,1464.0
+81,house,muralipura, Muralipura,17700000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1472-sq-ft-independent-house-in-muralipura/9673800,1472.0
+82,house,muralipura, Muralipura,17500000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1452-sq-ft-independent-house-in-muralipura/9673797,1452.0
+83,house,muralipura, Muralipura,17400000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1442-sq-ft-independent-house-in-muralipura/9673796,1442.0
+84,house,muralipura, Muralipura,17300000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1433-sq-ft-independent-house-in-muralipura/9673809,1433.0
+85,house,muralipura, Muralipura,17800000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1484-sq-ft-independent-house-in-muralipura/9673847,1484.0
+86,house,muralipura, Muralipura,17100000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1412-sq-ft-independent-house-in-muralipura/9673791,1412.0
+87,house,muralipura, Muralipura,17900000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1491-sq-ft-independent-house-in-muralipura/9673786,1491.0
+88,house,muralipura, Muralipura,17000000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1403-sq-ft-independent-house-in-muralipura/9673801,1403.0
+89,house,muralipura, Muralipura,17100000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1414-sq-ft-independent-house-in-muralipura/9673826,1414.0
+90,house,muralipura, Muralipura,17900000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1493-sq-ft-independent-house-in-muralipura/9673776,1493.0
+91,house,muralipura, Muralipura,17500000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1453-sq-ft-independent-house-in-muralipura/9673815,1453.0
+92,house,muralipura, Muralipura,17600000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1462-sq-ft-independent-house-in-muralipura/9673798,1462.0
+93,house,muralipura, Muralipura,17600000.0,4.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-1463-sq-ft-independent-house-in-muralipura/9673817,1463.0
+94,house,muralipura, Muralipura,17500000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1454-sq-ft-independent-house-in-muralipura/9673836,1454.0
+95,house,muralipura, Muralipura,17400000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1443-sq-ft-independent-house-in-muralipura/9673813,1443.0
+96,house,muralipura, Muralipura,17300000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1432-sq-ft-independent-house-in-muralipura/9673795,1432.0
+97,house,muralipura, Muralipura,17800000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1483-sq-ft-independent-house-in-muralipura/9673822,1483.0
+98,house,muralipura, Muralipura,17200000.0,3.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-3-bhk-1424-sq-ft-independent-house-in-muralipura/9673829,1424.0
+99,house,muralipura, Muralipura,17300000.0,6.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-1434-sq-ft-independent-house-in-muralipura/9673831,1434.0
+100,house,muralipura, Muralipura,17700000.0,3.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-3-bhk-1473-sq-ft-independent-house-in-muralipura/9673820,1473.0
+101,house,central jaipur, Jawahar Nagar,51500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-2575-sq-ft-independent-house-in-jawahar-nagar/9798582,1802.5
+102,house,vaishali nagar, Vaishali Nagar,150000000.0,6.0,6.0,3.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-10000-sq-ft-independent-house-in-vaishali-nagar/9579950,10000.0
+103,house,vaishali nagar, Vaishali Nagar,40000000.0,5.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-225-sq-yd-independent-house-in-jaipur-property-n-dream-h/9610284,1417.5
+104,house,dhawas, Dhawas,37100000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-211-sq-yd-independent-house-in-jaipur-property-ndream-ho/9625732,1329.3
+105,house,nirman nagar, Nirman Nagar,82500000.0,5.0,5.0,3.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-270-sq-yd-independent-house-in-jaipur-property-n-dream-h/9610263,1701.0
+106,house,vaishali nagar, Vaishali Nagar,39500000.0,4.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-200-sq-yd-independent-house-in-jaipur-property-n-dream-h/9625764,1260.0
+107,house,vaishali nagar, Vaishali Nagar,165000000.0,6.0,6.0,3.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-525-sq-yd-independent-house-in-jaipur-property-ndream-ho/9579943,3307.5
+108,house,vaishali nagar, Vaishali Nagar,115000000.0,5.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-350-sq-yd-independent-house-in-jaipur-property-n-dream-h/9610275,2205.0
+109,house,vaishali nagar, Vaishali Nagar,140000000.0,6.0,6.0,3.0,3.0,furnished,https://www.squareyards.com/resale-6-bhk-11000-sq-ft-independent-house-in-apne-zameen-apna-aasman/9558460,11000.0
+110,house,nirman nagar, Nirman Nagar,85000000.0,6.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-272-sq-yd-independent-house-in-jaipur-property-n-dream-h/9618579,1713.6
+111,house,central jaipur, Shyam Nagar,37500000.0,6.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-extra-room-246-sq-yd-independent-house-in-shyam-nagar/9651561,2214.0
+112,house,agra road, Agra Road,2675000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-96-sq-yd-independent-house-in-agra-road/9600340,864.0
+113,house,agra road, Agra Road,2690000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-89-sq-yd-independent-house-in-agra-road/9600353,801.0
+114,house,agra road, Agra Road,2640000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-85-sq-yd-independent-house-in-agra-road/9600360,765.0
+115,house,agra road, Agra Road,2599000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-80-sq-yd-independent-house-in-agra-road/9600369,720.0
+116,house,agra road, Agra Road,2588000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-78-sq-yd-independent-house-in-agra-road/9600375,702.0
+117,house,agra road, Agra Road,2545000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-73-sq-yd-independent-house-in-agra-road/9600389,657.0
+118,house,agra road, Agra Road,2515000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-70-sq-yd-independent-house-in-agra-road/9600395,630.0
+119,house,agra road, Agra Road,2540000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-64-sq-yd-independent-house-in-agra-road/9600413,576.0
+120,house,agra road, Agra Road,2510000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-61-sq-yd-independent-house-in-agra-road/9600440,549.0
+121,house,agra road, Agra Road,2695000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-97-sq-yd-independent-house-in-agra-road/9600338,873.0
+122,house,agra road, Agra Road,2685000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-96-sq-yd-independent-house-in-agra-road/9600339,864.0
+123,house,agra road, Agra Road,2545000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-74-sq-yd-independent-house-in-agra-road/9600388,666.0
+124,house,agra road, Agra Road,2615000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-90-sq-yd-independent-house-in-agra-road/9600351,810.0
+125,house,agra road, Agra Road,2610000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-82-sq-yd-independent-house-in-agra-road/9600366,738.0
+126,house,agra road, Agra Road,2630000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-84-sq-yd-independent-house-in-agra-road/9600362,756.0
+127,house,agra road, Agra Road,2580000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-68-sq-yd-independent-house-in-agra-road/9600397,612.0
+128,house,agra road, Agra Road,2625000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-91-sq-yd-independent-house-in-agra-road/9600347,819.0
+129,house,agra road, Agra Road,2576000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-76-sq-yd-independent-house-in-agra-road/9600379,684.0
+130,house,agra road, Agra Road,2565000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-65-sq-yd-independent-house-in-agra-road/9600382,585.0
+131,house,agra road, Agra Road,2535000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-72-sq-yd-independent-house-in-agra-road/9600390,648.0
+132,house,agra road, Agra Road,2560000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-66-sq-yd-independent-house-in-agra-road/9600402,594.0
+133,house,agra road, Agra Road,2655000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-94-sq-yd-independent-house-in-agra-road/9600343,846.0
+134,house,agra road, Agra Road,2645000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-93-sq-yd-independent-house-in-agra-road/9600344,837.0
+135,house,agra road, Agra Road,2655000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-87-sq-yd-independent-house-in-agra-road/9600357,783.0
+136,house,agra road, Agra Road,2600000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-81-sq-yd-independent-house-in-agra-road/9600368,729.0
+137,house,agra road, Agra Road,2525000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-71-sq-yd-independent-house-in-agra-road/9600393,639.0
+138,house,agra road, Agra Road,2520000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-62-sq-yd-independent-house-in-agra-road/9600438,558.0
+139,house,agra road, Agra Road,2570000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-67-sq-yd-independent-house-in-agra-road/9600398,603.0
+140,house,agra road, Agra Road,2680000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-88-sq-yd-independent-house-in-agra-road/9600355,792.0
+141,house,agra road, Agra Road,2635000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-92-sq-yd-independent-house-in-agra-road/9600345,828.0
+142,house,agra road, Agra Road,2590000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-69-sq-yd-independent-house-in-agra-road/9600396,621.0
+143,house,agra road, Agra Road,2575000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-77-sq-yd-independent-house-in-agra-road/9600377,693.0
+144,house,agra road, Agra Road,2555000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-64-sq-yd-independent-house-in-agra-road/9600387,576.0
+145,house,agra road, Agra Road,2589000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-79-sq-yd-independent-house-in-agra-road/9600372,711.0
+146,house,agra road, Agra Road,2500000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-60-sq-yd-independent-house-in-agra-road/9600195,540.0
+147,house,agra road, Agra Road,2620000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-83-sq-yd-independent-house-in-agra-road/9600365,747.0
+148,house,kalwar road, Kalwar Road,6000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1600-sq-ft-independent-house-in-kalwar-road/9625890,1600.0
+149,house,jagatpura, Jagatpura,20000000.0,6.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-155-sq-yd-independent-house-in-royal-court-jagatpura/8174961,1395.0
+150,house,sodala, Sodala,18900000.0,5.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-237-sq-yd-independent-house-in-sodala/8687372,2133.0
+151,house,central jaipur, Tonk Phatak,25000000.0,3.0,2.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-190-sq-yd-independent-house-in-tonk-phatak/9300821,1710.0
+152,house,jagatpura, Jagatpura,14000000.0,3.0,3.0,1.0,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-extra-room-900-sq-ft-independent-house-in-jaipur-property-hub/8308852,630.0
+153,house,vaishali nagar, Vaishali Nagar,140000000.0,6.0,6.0,3.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-450-sq-yd-independent-house-in-jaipur-property-n-dream-h/9052842,2835.0
+154,house,gandhi path, Gandhi Path,39000000.0,5.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-200-sq-yd-independent-house-in-jaipur-property-n-dream-h/9138304,1260.0
+155,house,chitrakoot, Chitrakoot,77100000.0,6.0,6.0,3.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-servant-room-study-room-extra-room-238-sq-yd-independent-house-in-jaipur-property-n-dream-h/9217604,1499.4
+156,house,mansarovar, Mansarovar Extension,32500000.0,5.0,6.0,1.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-200-sq-yd-independent-house-in-jaipur-property-ndream-ho/9380997,1260.0
+157,house,nirman nagar, Nirman Nagar,62500000.0,6.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-266-sq-yd-independent-house-in-jaipur-property-ndream-ho/9479079,1675.8
+158,house,hanuman nagar, Hanuman Nagar Extension,34100000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-200-sq-yd-independent-house-in-jaipur-property-ndream-ho/9500308,1260.0
+159,house,nirman nagar, Nirman Nagar,120000000.0,5.0,5.0,5.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-355-sq-yd-independent-house-in-jaipur-property-ndream-ho/9500316,2236.5
+160,house,central jaipur, Shyam Nagar,140000000.0,6.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-450-sq-yd-independent-house-in-jaipur-property-n-dream-h/9097178,2835.0
+161,house,mansarovar, Mansarovar Extension,95000000.0,6.0,6.0,5.0,4.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-450-sq-yd-independent-house-in-jaipur-property-n-dream-h/9092947,2835.0
+162,house,dhawas, Dhawas,47000000.0,5.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-4500-sq-ft-independent-house-in-jaipur-property-n-dream-h/9121651,4500.0
+163,house,vaishali nagar, Jagdamba Nagar,49500000.0,5.0,6.0,3.0,3.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-extra-room-5500-sq-ft-independent-house-in-jaipur-property-n-dream-h/9018970,5500.0
+164,house,mansarovar, Vardhman Nagar,51100000.0,5.0,6.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-extra-room-240-sq-yd-independent-house-in-jaipur-property-n-dream-h/8850954,1512.0
+165,house,chitrakoot, Chitrakoot,60500000.0,6.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-study-room-extra-room-5200-sq-ft-independent-house-in-jaipur-property-n-dream-h/8509541,4521.0
+166,house,vaishali nagar, Vaishali Nagar,92500000.0,5.0,5.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-extra-room-9000-sq-ft-independent-house-in-jaipur-property-n-dream-h/8983012,9000.0
+167,house,other, Machwa,9500000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2500-sq-ft-independent-house-in-kedia-aravali/8592330,2500.0
+169,house,other, Hathoj,6500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1700-sq-ft-independent-house-in-mjb-prime/9325070,1700.0
+170,house,kishorpura, Kishorpura,5700000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-2000-sq-ft-independent-house-in-rr-homes-kishorpura/8543363,2000.0
+172,house,kishorpura, Kishorpura,3500000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-servant-room-study-room-extra-room-1100-sq-ft-independent-house-in-rr-homes-kishorpura/9160139,1100.0
+173,house,other, Machwa,9950000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2200-sq-ft-independent-house-in-kedia-aravali/8931588,2200.0
+174,house,central jaipur, Jawahar Nagar,29500000.0,2.0,2.0,,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-extra-room-1800-sq-ft-independent-house-in-jns1-h4s-bchagy/9284836,1260.0
+176,house,mansarovar, Mansarovar,43000000.0,5.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-4800-sq-ft-independent-house-in-jaipur-property-n-dream-h/9082272,4800.0
+177,house,kalwar road, Kalwar Road,7000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-study-room-1800-sq-ft-independent-house-in-kalwar-road/8754906,1800.0
+178,house,other, Ansals Sushant City I,7100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-100-sq-yd-independent-house-in-ansals-sushant-city-i/8484098,630.0
+179,house,kalwar road, Kalwar Road,5200000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-111-sq-yd-independent-house-in-kalwar-road/8543042,699.3
+180,house,mansarovar, Ganatpura,12500000.0,6.0,2.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-1400-sq-ft-independent-house-in-sb-heights/8162954,1400.0
+181,house,agra road, Agra Road,2500000.0,2.0,2.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-2-bhk-pooja-room-50-sq-yd-independent-house-in-agra-road/9388623,450.0
+182,house,chitrakoot, Chitrakoot,85000000.0,5.0,6.0,3.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-extra-room-302-sq-ft-independent-house-in-jaipur-property-n-dream-h/8240887,211.4
+187,house,vaishali nagar, Jagdamba Nagar,49500000.0,5.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-extra-room-285-sq-yd-independent-house-in-jaipur-property-n-dream-h/9228347,1795.5
+188,house,dhawas, Dhawas,47100000.0,5.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-252-sq-yd-independent-house-in-jaipur-property-n-dream-h/9130901,1587.6
+190,house,hanuman nagar, Hanuman Nagar Extension,50000000.0,6.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-240-sq-yd-independent-house-in-jaipur-property-n-dream-h/9151865,1512.0
+191,house,sodala, Sodala,52500000.0,5.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-extra-room-280-sq-yd-independent-house-in-jaipur-property-n-dream-h/8583223,1764.0
+192,house,sirsi road, Sirsi Road,52500000.0,6.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-study-room-extra-room-266-sq-yd-independent-house-in-apni-zameen-apna-aasman/9248656,1675.8
+194,house,central jaipur, Shyam Nagar,67500000.0,4.0,6.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-5200-sq-ft-independent-house-in-shyam-nagar/9513903,5200.0
+196,house,other, Narayan Vihar,29000000.0,5.0,5.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-158-sq-yd-independent-house-in-jaipur-property-n-dream-h/9032305,995.4
+201,house,jagatpura, Jagatpura,17500000.0,4.0,4.0,,,semi-furnished,https://www.squareyards.com/resale-4-bhk-extra-room-2200-sq-ft-independent-house-in-somya-sky-legend/8866045,2200.0
+202,house,sodala, Sodala,25000000.0,4.0,2.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-250-sq-ft-independent-house-in-sodala/8688794,250.0
+203,house,nirman nagar, Nirman Nagar,16000000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-111-sq-yd-independent-house-in-nirman-nagar/8954880,999.0
+204,house,sodala, Sodala,10000000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-104-sq-yd-independent-house-in-sodala/8562472,936.0
+205,house,central jaipur, Jawahar Nagar,50000000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-servant-room-267-sq-yd-independent-house-in-jns3-h4s-brisja/8669337,2403.0
+206,house,other, Hathoj,6500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-independent-house-in-mjb-prime/9094296,1800.0
+207,house,kishorpura, Kishorpura,5800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-2000-sq-ft-independent-house-in-rr-homes-kishorpura/9039045,2000.0
+208,house,kishorpura, Kishorpura,4700000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2100-sq-ft-independent-house-in-vrb-the-platinum/8370782,2100.0
+209,house,kalwar road, Kalwar Road,13500000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-2700-sq-ft-independent-house-in-ansal-sushant-city-ii/9056751,2700.0
+210,house,kalwar road, Kalwar Road,7000000.0,3.5,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-5-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-independent-house-in-ganpatis-paradise-city/8923932,1800.0
+212,house,kalwar road, Kalwar Road,500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1300-sq-ft-independent-house-in-ansal-sun-city/9160147,1300.0
+213,house,kalwar road, Kalwar Road,13500000.0,3.0,3.0,1.0,2.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-3500-sq-ft-independent-house-in-kalwar-road/9364524,3500.0
+214,house,muralipura, Muralipura,38000000.0,6.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-185-sq-yd-independent-house-in-indipendent-house-murlipu/8682342,1665.0
+215,house,mansarovar, Mansarovar,9000000.0,3.0,2.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-72-sq-mt-independent-house-in-mansarovar/8474347,720.0
+218,house,vaishali nagar, Vaishali Nagar,140000000.0,6.0,6.0,3.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-10000-sq-ft-independent-house-in-jaipur-property-n-dream-h/9113561,10000.0
+219,house,kishorpura, Kishorpura,4900000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-independent-house-in-vrb-the-platinum/8616650,1800.0
+220,house,shri kishanpura, Shri Kishanpura,5700000.0,3.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-2200-sq-ft-independent-house-in-vinayak-residency-shri-kishanpura/8723139,2200.0
+221,house,kishorpura, Kishorpura,4800000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-2200-sq-ft-independent-house-in-rr-homes-kishorpura/8408711,2200.0
+223,house,other, Hathoj,6500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-independent-house-in-govind-sarover/8963686,1800.0
+224,house,other, Hathoj,7300000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1800-sq-ft-independent-house-in-mjb-prime/9350390,1800.0
+226,house,sirsi road, Sirsi Road,50000000.0,6.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-study-room-extra-room-240-sq-yd-independent-house-in-jaipur-property-n-dream-h/9185527,1512.0
+227,house,mansarovar, Mansarovar,65100000.0,6.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-6500-sq-ft-independent-house-in-jaipur-property-ndream-ho/9381078,6500.0
+228,house,central jaipur, Jawahar Nagar,37000000.0,5.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-study-room-4000-sq-ft-independent-house-in-jns4-h4s-bneear/9026460,4000.0
+229,house,central jaipur, Adarsh Nagar,27000000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-study-room-1944-sq-ft-independent-house-in-ansakco-h4s-byogsh/9162842,1360.8
+230,house,mansarovar, Mansarovar,25000000.0,6.0,6.0,2.0,1.0,unfurnished,https://www.squareyards.com/resale-6-bhk-5000-sq-ft-independent-house-in-sfs-6-sec/8847999,5000.0
+231,house,sodala, Sodala,9500000.0,2.5,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-5-bhk-105-sq-yd-independent-house-in-sodala/8588841,945.0
+235,house,dhawas, Dhawas,47500000.0,5.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-252-sq-yd-independent-house-in-jaipur-property-n-dream-h/9121644,1587.6
+238,house,vaishali nagar, Vaishali Nagar,36500000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-190-sq-yd-independent-house-in-jaipur-property-n-dream-h/9282981,1197.0
+242,house,mansarovar, Mansarovar Extension,30100000.0,5.0,5.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-3800-sq-ft-independent-house-in-apni-zameen-apna-aasman/8636429,3800.0
+245,house,vaishali nagar, Vidhyut Nagar,60000000.0,4.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-216-sq-yd-independent-house-in-jaipur-property-n-dream-h/8194653,1360.8
+246,house,other, Machwa,8900000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2400-sq-ft-independent-house-in-kedia-aravali/8225288,2400.0
+247,house,kishorpura, Kishorpura,5500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1700-sq-ft-independent-house-in-vrb-the-platinum/8336736,1700.0
+249,house,ajmer road, Kanakpura,17000000.0,5.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-extra-room-2800-sq-ft-independent-house-in-shyam-green/8762442,2800.0
+251,house,kalwar road, Kalwar Road,7600000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2200-sq-ft-independent-house-in-ansal-sun-city/8174098,2200.0
+252,house,kalwar road, Kalwar Road,6800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1750-sq-ft-independent-house-in-ansals-sushant-city-i-spanish-villa/8644634,1750.0
+253,house,kishorpura, Kishorpura,4800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1400-sq-ft-independent-house-in-rr-homes-kishorpura/9021903,1400.0
+254,house,other, Machwa,4600000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1300-sq-ft-independent-house-in-kedia-aravali/9027765,1300.0
+255,house,central jaipur, Tilak Nagar,61500000.0,2.0,2.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-2-bhk-study-room-325-sq-yd-independent-house-in-tn-h4s_bati/8272774,2925.0
+256,house,central jaipur, Janata Colony,53099999.99999999,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-study-room-3000-sq-ft-independent-house-in-janata-colony/8900556,3000.0
+257,house,mansarovar, Manyawas,30000000.0,5.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-extra-room-195-sq-yd-independent-house-in-jaipur-property-n-dream-h/8296425,1228.5
+258,house,mansarovar, Mansarovar,16000000.0,4.0,2.0,2.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-112-sq-mt-independent-house-in-mansarovar/8377747,1120.0
+259,house,central jaipur, Udai Nagar,42500000.0,5.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-extra-room-5500-sq-ft-independent-house-in-udai-nagar/9001437,5500.0
+260,house,nirman nagar, Nirman Nagar,16000000.0,4.0,4.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-study-room-166-sq-yd-independent-house-in-nirman-nagar/9193656,1494.0
+261,house,muralipura, Muralipura,17000000.0,6.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-160-sq-yd-independent-house-in-vatsalya-residency-muralipura/8162856,1440.0
+262,house,kalwar road, Kalwar Road,6500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1700-sq-ft-independent-house-in-kalwar-road/8485115,1700.0
+263,house,gandhi path, Gandhi Path,14300000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-study-room-2800-sq-ft-independent-house-in-gandhi-path/8609937,2800.0
+264,house,agra road, Agra Road,2500000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-50-sq-yd-independent-house-in-agra-road/9349729,450.0
+267,house,vaishali nagar, Vaishali Nagar,39100000.0,5.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-4800-sq-ft-independent-house-in-jaipur-property-n-dream-h/9138298,4800.0
+268,house,dhawas, Dhawas,47500000.0,5.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-extra-room-233-sq-yd-independent-house-in-jaipur-property-n-dream-h/9185530,1467.9
+270,house,gandhi path, Gandhi Path,37000000.0,5.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-200-sq-yd-independent-house-in-jaipur-property-n-dream-h/9258902,1260.0
+272,house,vaishali nagar, Vaishali Nagar,47500000.0,5.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-233-sq-yd-independent-house-in-jaipur-property-ndream-ho/9330358,1467.9
+277,house,mansarovar, Manyawas,30500000.0,5.0,6.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-200-sq-yd-independent-house-in-jaipur-property-n-dream-h/8189027,1260.0
+279,house,central jaipur, Udai Nagar,43099999.99999999,5.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-extra-room-4800-sq-ft-independent-house-in-jaipur-property-n-dream-h/9052849,4173.0
+280,house,sodala, Sodala,55000000.0,4.0,5.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-260-sq-yd-independent-house-in-jaipur-property-n-dream-h/9018976,1638.0
+281,house,vaishali nagar, Vidhyut Nagar,110100000.0,6.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-servant-room-study-room-extra-room-350-sq-yd-independent-house-in-jaipur-property-n-dream-h/9113550,2205.0
+282,house,sodala, Sodala,38700000.0,4.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-310-sq-yd-independent-house-in-sodala/8674409,2790.0
+283,house,other, Hathoj,7500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1800-sq-ft-independent-house-in-mjb-heights/9325065,1800.0
+284,house,kishorpura, Kishorpura,5800000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2100-sq-ft-independent-house-in-rr-homes-kishorpura/8394934,2100.0
+285,house,kalwar road, Kalwar Road,4400000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1700-sq-ft-independent-house-in-ansal-sushant-city-ii/8265959,1700.0
+286,house,kalwar road, Kalwar Road,7500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2200-sq-ft-independent-house-in-om-sarovar/8159392,2200.0
+287,house,central jaipur, Jawahar Nagar,16500000.0,2.0,2.0,,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-study-room-1200-sq-ft-independent-house-in-jawahar-nagar/9065597,1200.0
+288,house,central jaipur, Janata Colony,26000000.0,2.0,1.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-208-sq-yd-independent-house-in-snjanvo-h4s-bsakbi/8902258,1310.4
+289,house,mansarovar, Mansarovar,65000000.0,6.0,6.0,2.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-240-sq-yd-independent-house-in-mansarovar/9375339,1512.0
+290,house,chitrakoot, Chitrakoot,67000000.0,6.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-study-room-extra-room-238-sq-yd-independent-house-in-jaipur-property-n-dream-h/8393287,1499.4
+291,villa,vaishali nagar, Vaishali Nagar,9801000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2050-sq-ft-villa-in-vaishali-nagar/9781788,2050.0
+292,villa,central jaipur, Malviya Nagar,12000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-extra-room-115-sq-yd-villa-in-malviya-nagar/9124847,1035.0
+294,villa,ajmer road, Jaipur Ajmer Express Highway,300000000.0,6.0,6.0,6.0,5.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-27000-sq-ft-villa-in-phagiwala-place-amer-jaip/9473418,27000.0
+295,villa,vaishali nagar, Vaishali Nagar,36800000.0,4.0,5.0,2.0,,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-190-sq-yd-villa-in-vaishali-nagar/9845771,1486.0
+296,villa,other, Benad Road,10000000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-extra-room-100-sq-yd-villa-in-raghuveer-residency/9742667,900.0
+297,villa,ajmer road, Ajmer Road,16500000.0,4.0,4.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2450-sq-ft-villa-in-manglam-anantara-the-villas/9864544,2450.0
+298,villa,hanuman nagar, Hanuman Nagar Extension,20000000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-166-sq-yd-villa-in-hanuman-nagar-extension/9810235,1045.8
+299,villa,vaishali nagar, Vaishali Nagar,35500000.0,6.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-6-bhk-pooja-room-120-sq-mt-villa-in-park-vaishali/9183781,1200.0
+300,villa,kalwar road, Kalwar Road,7200000.0,4.0,4.0,1.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-1600-sq-ft-villa-in-villa-homes/9309163,1600.0
+301,villa,dhawas, Dhawas,16500000.0,6.0,6.0,,5.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-4000-sq-ft-villa-in-dhawas/9834196,4000.0
+302,villa,jagatpura, Tilawala,19000000.0,4.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-111-sq-ft-villa-in-prime-arihant-greens/9623580,77.7
+303,villa,kalwar road, Kalwar Road,8500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-111-sq-yd-villa-in-kalwar-road/9704799,699.3
+304,villa,other, Kookas,5000000.0,3.0,3.0,,,semi-furnished,https://www.squareyards.com/resale-3-bhk-study-room-1000-sq-ft-villa-in-kookas/9834377,1000.0
+305,villa,other, Jais,10500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-111-sq-yd-villa-in-jaisinghpura/9722381,699.3
+306,villa,other, Kalwara,3800000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-668-sq-ft-villa-in-kalwara/9753867,668.0
+307,villa,chitrakoot, Chitrakoot,32100000.0,4.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-145-sq-yd-villa-in-chitrakoot/9676987,1305.0
+308,villa,other, Hathoj,7200000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-villa-in-mjb-prime/9830841,1800.0
+309,villa,sanganer, Sanganer,3000000.0,2.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-2-bhk-55-sq-yd-villa-in-sanganer/9839819,495.0
+310,villa,ajmer road, Ajmer Road,15900000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-164-sq-yd-villa-in-ajmer-road/9803811,1476.0
+311,villa,mansarovar, Sumer Nagar,21100000.0,4.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2400-sq-ft-villa-in-sumer-nagar/9525783,2400.0
+312,villa,other, Narayan Vihar,18500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2800-sq-ft-villa-in-narayan-vihar/9458124,2800.0
+313,villa,vaishali nagar, Jagdamba Nagar,27000000.0,6.0,6.0,1.0,2.0,furnished,https://www.squareyards.com/resale-6-bhk-200-sq-yd-villa-in-jagdamba-nagar/9368005,1800.0
+314,villa,nirman nagar, Nirman Nagar,28000000.0,4.0,5.0,2.0,,furnished,https://www.squareyards.com/resale-4-bhk-3200-sq-ft-villa-in-nirman-nagar/9597864,3200.0
+315,villa,ajmer road, Ajmer Road,9000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1900-sq-ft-villa-in-space-villa/9713243,1652.0
+316,villa,jagatpura, Jagatpura,18000000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2500-sq-ft-villa-in-porwal-realty/9706023,2500.0
+317,villa,kalwar road, Kalwar Road,5500000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1405-sq-ft-villa-in-ansal-sushant-city-ii/9481446,1405.0
+318,villa,kalwar road, Kalwar Road,9800000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-128-sq-yd-villa-in-kalwar-road/9694064,1152.0
+319,villa,central jaipur, Shyam Nagar,67500000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-4400-sq-ft-villa-in-shyam-nagar/9370836,4400.0
+320,villa,sirsi road, Sirsi Road,9451000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-2150-sq-ft-villa-in-anandam-villa-radha-vihar/9248412,2150.0
+321,villa,other, Hathoj,3700000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-700-sq-ft-villa-in-shivmangalam-hotoj/9386933,490.0
+322,villa,other, Kalwara,31600000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-4950-sq-ft-villa-in-galaxy-enclave-kalwara/9417394,4950.0
+323,villa,agra road, Agra Road,4350000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1450-sq-ft-villa-in-agra-road/9796530,1450.0
+324,villa,ajmer road, Ajmer Road,6010000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-71-sq-mt-villa-in-ajmer-road/9436848,710.0
+325,villa,jagatpura, Jagatpura,14000000.0,3.5,4.0,1.0,,furnished,https://www.squareyards.com/resale-3-5-bhk-1850-sq-ft-villa-in-shyam-ratan/9591868,1850.0
+326,villa,central jaipur, C-Scheme,24200000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2210-sq-ft-villa-in-c-scheme/9844858,2210.0
+327,villa,gandhi path, Gandhi Path,39100000.0,5.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-5-bhk-208-sq-yd-villa-in-gandhi-path/9227874,1872.0
+328,villa,other, Hathoj,4800000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1500-sq-ft-villa-in-hathoj/9376562,1500.0
+329,villa,mansarovar, Mansarovar Extension,12000000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-93-sq-yd-villa-in-mansarovar-extension/9618268,837.0
+330,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-93-sq-yd-villa-in-sirsi-road/9430895,837.0
+332,villa,sirsi road, Sirsi Road,9000000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1500-sq-ft-villa-in-sirsi-road/9278084,1500.0
+333,villa,mansarovar, Mansarovar,27100000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-4000-sq-ft-villa-in-mansarovar/9220246,4000.0
+334,villa,mansarovar, Mansarovar,9750000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-771-sq-ft-villa-in-mansarovar/9361701,771.0
+335,villa,other, Niwaru,2750000.0,2.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-650-sq-ft-villa-in-niwaru/9380620,650.0
+336,villa,mansarovar, Patrakar Colony,5700000.0,2.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-2-bhk-450-sq-ft-villa-in-shubh-avana/9376688,450.0
+337,villa,other, Mundiya Ramsar,2800000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-50-sq-yd-villa-in-mundiya-ramsar/9241106,450.0
+338,villa,other, Chokhi Dhani,4500000.0,4.0,2.0,,2.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1200-sq-ft-villa-in-chokhi-dhani/9215459,1200.0
+339,villa,central jaipur, Malviya Nagar,35200000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-222-sq-yd-villa-in-malviya-nagar/9720418,1998.0
+340,villa,jhotwara, Jhotwara,8200000.0,4.0,4.0,,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-villa-in-jhotwara/9207658,1800.0
+341,villa,ajmer road, Mahapura,8000000.0,4.0,4.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-2252-sq-ft-villa-in-chordia-prime-ville/9127012,1958.0
+342,villa,vaishali nagar, Vaishali Nagar,22100000.0,4.0,4.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-study-room-3155-sq-ft-villa-in-nirwana-villas-vaishali-n/9195390,3155.0
+343,villa,kalwar road, Kalwar Road,4600000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1420-sq-ft-villa-in-kalwar-road/9015771,1420.0
+344,villa,sodala, Sodala,27500000.0,6.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-200-sq-yd-villa-in-sodala/9436815,1800.0
+345,villa,other, Kardhani,6200000.0,3.0,2.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-servant-room-study-room-extra-room-1500-sq-ft-villa-in-kardhani/8965856,1500.0
+346,villa,vaishali nagar, Vaishali Nagar,27100000.0,4.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-166-sq-yd-villa-in-vaishali-nagar/9115712,1494.0
+347,villa,gokulpura, Gokulpura,8500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-100-sq-yd-villa-in-gokulpura/9033185,782.0
+348,villa,gandhi path, Gandhi Path,11000000.0,3.0,2.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-93-sq-yd-villa-in-gandhi-path/9091755,837.0
+349,villa,vaishali nagar, Vaishali Nagar,23100000.0,4.0,5.0,2.0,,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-150-sq-yd-villa-in-rangoli-villa/9017428,1350.0
+350,villa,mansarovar, Mohanpura,10500000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-extra-room-792-sq-ft-villa-in-ravi-kiran-vihar/9109943,554.4
+351,villa,jagatpura, Jagatpura,9700000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-90-sq-yd-villa-in-villa-rl/8403121,810.0
+352,villa,jagatpura, Jagatpura,17000000.0,3.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-133-sq-yd-villa-in-shyam-villa/8330563,837.9
+353,villa,sanganer, Dadu Dayal Nagar,18200000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-102-sq-yd-villa-in-dadu-dayal-nagar/9312394,918.0
+354,villa,vaishali nagar, Vaishali Nagar,36500000.0,4.0,4.0,2.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-200-sq-yd-villa-in-villa/8301070,1260.0
+355,villa,ajmer road, Ajmer Road,16500000.0,4.0,4.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2450-sq-ft-villa-in-manglam-anantara-the-villas/9007528,2130.0
+356,villa,sirsi road, Sirsi Road,45100000.0,6.0,6.0,2.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-study-room-5800-sq-ft-villa-in-sirsi-road/9724286,5800.0
+357,villa,jagatpura, Ramnagariya,21100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-133-sq-yd-villa-in-shiv-nagar-jagatpura/9142807,1197.0
+358,villa,gandhi path, Gandhi Path,25000000.0,5.0,5.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-4000-sq-ft-villa-in-gandhi-path/8688329,4000.0
+359,villa,ajmer road, Gajs,11000000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-72-sq-mt-villa-in-kedia-panchwati/9187230,828.0
+360,villa,mansarovar, Vardhman Nagar,40000000.0,6.0,6.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-4500-sq-ft-villa-in-vardhman-nagar/9586432,4500.0
+361,villa,ajmer road, Ajmer Road,14000000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-111-sq-yd-villa-in-ajmer-road/9802881,999.0
+362,villa,mansarovar, Mansarovar Extension,25100000.0,6.0,6.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-3300-sq-ft-villa-in-mansarovar-extension/9541480,3300.0
+363,villa,other, Jais,10500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-111-sq-ft-villa-in-jaisinghpura/9871222,77.7
+364,villa,other, Narayan Vihar,9600000.0,3.0,3.0,,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-2000-sq-ft-villa-in-narayan-vihar/9690512,2000.0
+365,villa,govindpura, Gov,5600000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1300-sq-ft-villa-in-anand-homes-govindpura/9622710,1300.0
+366,villa,ajmer road, Jaipur Ajmer Express Highway,5500000.0,3.0,2.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-extra-room-100-sq-yd-villa-in-jaipur-ajmer-express-highway/9839861,900.0
+367,villa,jagatpura, Jagatpura,15100000.0,3.5,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-5-bhk-pooja-room-1750-sq-ft-villa-in-porwal-realty/9736119,1750.0
+368,villa,sirsi road, Sirsi Road,33100000.0,5.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-4850-sq-ft-villa-in-anandam-kothi-near-dmart/9237925,4850.0
+369,villa,kalwar road, Kalwar Road,5500000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1395-sq-ft-villa-in-ansal-sushant-city-ii/9481617,1395.0
+370,villa,kalwar road, Kalwar Road,9900000.0,4.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-store-room-128-sq-yd-villa-in-kalwar-road/9801243,1152.0
+371,villa,agra road, Agra Road,4207000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1375-sq-ft-villa-in-agra-road/9796589,1375.0
+372,villa,ajmer road, Ajmer Road,6084000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-71-sq-mt-villa-in-ajmer-road/9437325,710.0
+373,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-88-sq-yd-villa-in-sirsi-road/9430891,792.0
+375,villa,ajmer road, Jaipur Ajmer Express Highway,10500000.0,4.0,4.0,,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-extra-room-2300-sq-ft-villa-in-jaipur-ajmer-express-highway/9353197,2300.0
+376,villa,sirsi road, Sirsi Road,2900000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-50-sq-yd-villa-in-sirsi-road/9319317,450.0
+377,villa,mansarovar, Mansarovar,9750000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-767-sq-ft-villa-in-mansarovar/9136196,767.0
+378,villa,govindpura, Gov,7400000.0,4.0,4.0,1.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1700-sq-ft-villa-in-govindpura-kalwar-road/9055218,1700.0
+379,villa,kalwar road, Kalwar Road,3700000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1200-sq-ft-villa-in-kalwar-road/9033465,1200.0
+380,villa,jhotwara, Jhotwara,13500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-116-sq-yd-villa-in-jhotwara/9025928,730.8
+381,villa,ajmer road, Ajmer Road,12100000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-147-sq-yd-villa-in-shree-balaji-chamber-and/9091263,1323.0
+382,villa,vaishali nagar, Vaishali Nagar,35100000.0,4.0,4.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-205-sq-yd-villa-in-vaishali-nagar/9115694,1845.0
+383,villa,jagatpura, Jagatpura,9500000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-study-room-100-sq-yd-villa-in-aanadam-villas/8277758,900.0
+384,villa,sanganer, Dadu Dayal Nagar,18000000.0,5.0,5.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-5-bhk-pooja-room-extra-room-111-sq-yd-villa-in-dadu-dayal-nagar/9275384,999.0
+385,villa,sodala, Sodala,14000000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-130-sq-yd-villa-in-sodala/9025422,1170.0
+386,villa,ajmer road, Ajmer Road,16500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-2450-sq-ft-villa-in-manglam-anantara-the-villas/8166208,2130.0
+387,villa,jagatpura, Jagatpura,9800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-100-sq-yd-villa-in-jagatpura/8403154,900.0
+388,villa,gandhi path, Gandhi Path,23100000.0,5.0,6.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-4800-sq-ft-villa-in-dream-villa-gandhi-path/9199159,4800.0
+389,villa,vaishali nagar, Lalarpura,24100000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-3500-sq-ft-villa-in-jaipur-property-ndream-ho/9697329,3500.0
+390,villa,sirsi road, Sirsi Road,6000000.0,3.0,3.0,1.0,2.0,furnished,https://www.squareyards.com/resale-3-bhk-1620-sq-ft-villa-in-sirsi-road/9208376,1620.0
+391,villa,mansarovar, Mansarovar Extension,9600000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-88-sq-yd-villa-in-ashish-utpal/8772181,792.0
+392,villa,other, Narayan Vihar,17000000.0,4.0,4.0,,2.0,furnished,https://www.squareyards.com/resale-4-bhk-servant-room-2800-sq-ft-villa-in-narayan-vihar/9462659,2800.0
+393,villa,jagatpura, Jagatpura,14100000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-111-sq-yd-villa-in-ashadeep-green-valley-jag/9368633,999.0
+394,villa,kishorpura, Kishorpura,7100000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1900-sq-ft-villa-in-vrb-the-platinum/9622692,1900.0
+395,villa,mansarovar, Sumer Nagar,21100000.0,4.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2401-sq-ft-villa-in-sumer-nagar/9869104,2401.0
+396,villa,jagatpura, Jagatpura,14500000.0,3.0,3.0,2.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-2000-sq-ft-villa-in-porwal-realty/9706021,2000.0
+397,villa,other, Chokhi Dhani,6500000.0,3.0,2.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-extra-room-100-sq-yd-villa-in-chokhi-dhani/9826346,900.0
+398,villa,kalwar road, Kalwar Road,5518000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1410-sq-ft-villa-in-ansal-sushant-city-ii/9481614,1410.0
+399,villa,kalwar road, Kalwar Road,9800000.0,4.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-126-sq-yd-villa-in-kalwar-road/9381457,1134.0
+400,villa,ajmer road, Ajmer Road,15000000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-110-sq-yd-villa-in-ajmer-road/9803404,990.0
+401,villa,sirsi road, Sirsi Road,9511000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2150-sq-ft-villa-in-anandam-villa-radha-vihar/9234826,2150.0
+402,villa,agra road, Agra Road,4208000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1385-sq-ft-villa-in-agra-road/9796578,1385.0
+403,villa,ajmer road, Ajmer Road,6172000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-72-sq-mt-villa-in-ajmer-road/9437334,720.0
+404,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-99-sq-yd-villa-in-sirsi-road/9430901,891.0
+407,villa,other, B,2850000.0,3.0,2.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-50-sq-yd-villa-in-mundiya-ramsar/9249216,450.0
+408,villa,mansarovar, Mansarovar,9755000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-767-sq-ft-villa-in-mansarovar/9136199,767.0
+409,villa,govindpura, Gov,6500000.0,2.0,2.0,1.0,,unfurnished,https://www.squareyards.com/resale-2-bhk-1350-sq-ft-villa-in-govindpura-kalwar-road/8932422,1350.0
+410,villa,kalwar road, Kalwar Road,4200000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-940-sq-ft-villa-in-kalwar-road/9029138,940.0
+411,villa,kalwar road, Kalwar Road,6000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1538-sq-ft-villa-in-shree-balaji-chamber-and/9088016,1538.0
+412,villa,jhotwara, Jhotwara,25000000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-156-sq-yd-villa-in-jhotwara/9025916,982.8
+413,villa,kalwar road, Kalwar Road,7500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-2000-sq-ft-villa-in-kalwar-road/8511829,1739.0
+414,villa,sodala, Sodala,23500000.0,3.5,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-5-bhk-130-sq-yd-villa-in-sodala/8911949,1170.0
+415,villa,ajmer road, Ajmer Road,10000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-107-sq-ft-villa-in-rr-nagar/8469452,107.0
+417,villa,jagatpura, Jagatpura,8800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-80-sq-yd-villa-in-villa-nk/8403142,720.0
+418,villa,other, Sirsi,16000000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-2300-sq-ft-villa-in-apni-zameen-apna-aasman/9736785,2300.0
+419,villa,other, Pahadiya Road,5000000.0,6.0,6.0,3.0,2.0,unfurnished,https://www.squareyards.com/resale-6-bhk-9000-sq-ft-villa-in-pahadiya-road/9026760,9000.0
+420,villa,vaishali nagar, Vaishali Nagar,9800000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2100-sq-ft-villa-in-vaishali-nagar/9778935,2100.0
+421,villa,mansarovar, Mansarovar Extension,16500000.0,4.0,4.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2800-sq-ft-villa-in-mansarovar-extension/9271738,2434.0
+422,villa,kalwar road, Kalwar Road,6400000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1800-sq-ft-villa-in-real-greens/9424833,1800.0
+423,villa,jagatpura, Jagatpura,15000000.0,5.0,4.0,1.0,2.0,furnished,https://www.squareyards.com/resale-5-bhk-extra-room-2500-sq-ft-villa-in-porwal-realty/9704350,2500.0
+424,villa,jagatpura, Jagatpura,15500000.0,4.0,4.0,1.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-133-sq-yd-villa-in-shiksha-vihar-skit-colleg/9291785,1197.0
+425,villa,sirsi road, Sirsi Road,19800000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1999-sq-ft-villa-in-sirsi-road/9298349,1999.0
+426,villa,other, Paldi Meena,3500000.0,2.0,1.0,,,unfurnished,https://www.squareyards.com/resale-2-bhk-50-sq-yd-villa-in-paldi-meena/9746011,450.0
+427,villa,kalwar road, Kalwar Road,5519000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1410-sq-ft-villa-in-ansal-sushant-city-ii/9481615,1410.0
+428,villa,ajmer road, Ajmer Road,13200000.0,1.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-1-rk-2300-sq-ft-villa-in-ajmer-road/9804245,2300.0
+429,villa,agra road, Agra Road,4360000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1460-sq-ft-villa-in-agra-road/9796528,1460.0
+430,villa,ajmer road, Ajmer Road,6100000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-71-sq-mt-villa-in-ajmer-road/9437327,710.0
+431,villa,sirsi road, Sirsi Road,9850000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2150-sq-ft-villa-in-anandam-villa-radha-vihar/9248427,2150.0
+432,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-101-sq-yd-villa-in-sirsi-road/9430903,909.0
+434,villa,pratap nagar, Tonk Road,18000000.0,2.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-2-bhk-120-sq-ft-villa-in-mahima-sansaar/9172633,120.0
+435,villa,mansarovar, Mansarovar,9777000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-767-sq-ft-villa-in-mansarovar/9136201,767.0
+436,villa,kalwar road, Kalwar Road,8600000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-133-sq-yd-villa-in-kalwar-road/9134801,1197.0
+437,villa,govindpura, Gov,6800000.0,2.0,2.0,1.0,,unfurnished,https://www.squareyards.com/resale-2-bhk-1400-sq-ft-villa-in-govindpura-kalwar-road/8927742,1400.0
+438,villa,kalwar road, Kalwar Road,6000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-2000-sq-ft-villa-in-kalwar-road/9020224,2000.0
+439,villa,other, Kalwara,12500000.0,4.0,1.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-servant-room-152-sq-yd-villa-in-galaxy-enclave-kalwara/8972890,1368.0
+440,villa,ajmer road, Ajmer Road,12100000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-136-sq-yd-villa-in-shree-balaji-chamber-and/9091217,1224.0
+441,villa,kalwar road, Kalwar Road,7000000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2100-sq-ft-villa-in-kalwar-road/8595255,2100.0
+442,villa,sodala, Sodala,22500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-servant-room-100-sq-yd-villa-in-sodala/8834224,900.0
+443,villa,ajmer road, Ajmer Road,11000000.0,4.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-110-sq-yd-villa-in-krishna-vihar/8485830,990.0
+445,villa,vaishali nagar, Vaishali Nagar,32100000.0,4.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1300-sq-ft-villa-in-sky-villa-4-bhk-villa-rea/8248878,1300.0
+446,villa,pratap nagar, Tonk Road,15000000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-extra-room-111-sq-yd-villa-in-ruby-welkin-villas/8519137,999.0
+447,villa,vaishali nagar, Vaishali Nagar,25000000.0,4.0,4.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-servant-room-4000-sq-ft-villa-in-vaishali-nagar/8648646,4000.0
+448,villa,other, Beelwa Kalan,6000000.0,3.0,3.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1234-sq-ft-villa-in-shubham-aditya-villa/8270764,1073.0
+449,villa,vaishali nagar, Vaishali Nagar,13000000.0,3.0,4.0,4.0,5.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-2300-sq-ft-villa-in-chopra-sukhija-vihar/8737213,2300.0
+450,villa,mansarovar, Mansarovar,9500000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-900-sq-ft-villa-in-mansarovar/8285648,900.0
+451,villa,central jaipur, Prem Pura Village,13000000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-extra-room-110-sq-yd-villa-in-prem-pura-village/8524951,693.0
+452,villa,jagatpura, Jagatpura,14100000.0,3.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-2000-sq-ft-villa-in-jgtpur-3bv4s-baksgoy/8608446,1739.0
+454,villa,gokulpura, Gokulpura,14500000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2165-sq-ft-villa-in-sapna-homes-ex-army-group/8583434,2165.0
+455,villa,jagatpura, Jagatpura,17100000.0,2.5,1.0,1.0,,furnished,https://www.squareyards.com/resale-2-5-bhk-133-sq-yd-villa-in-jagatpura/8784184,1197.0
+456,villa,vaishali nagar, Vaishali Nagar,15000000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-140-sq-ft-villa-in-manglams-vaishali-estate/8913484,121.0
+457,villa,ajmer road, Kanakpura,8600000.0,3.0,4.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1850-sq-ft-villa-in-sapna-homes/8200378,1850.0
+458,villa,mansarovar, Patrakar Colony,9600000.0,3.5,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-5-bhk-pooja-room-88-sq-yd-villa-in-ravi-kiran-vihar/8654464,554.4
+459,villa,gandhi path, Gandhi Path,13000000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-111-sq-yd-villa-in-gandhi-path-wast-villa/8173892,699.3
+460,villa,mansarovar, Mansarovar,10000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-100-sq-yd-villa-in-mansarovar/8248973,900.0
+461,villa,jagatpura, Jagatpura,9900000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-90-sq-yd-villa-in-jagatpura/8228071,567.0
+462,villa,jagatpura, Jagatpura,16500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-90-sq-yd-villa-in-jagatpura/8027404,810.0
+463,villa,vaishali nagar, Vaishali Nagar,32100000.0,4.0,4.0,3.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-study-room-125-sq-ft-villa-in-sky-vaishali-nagar/8181083,87.5
+464,villa,ajmer road, Bhakrota,10000000.0,3.0,3.0,3.0,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-800-sq-ft-villa-in-chart-kings-residency/8287491,800.0
+465,villa,jagatpura, Jagatpura,21500000.0,4.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-150-sq-yd-villa-in-lotus-pink/8796073,1350.0
+466,villa,kalwar road, Kalwar Road,8600000.0,3.0,3.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1850-sq-ft-villa-in-sapna-homes/8209748,1850.0
+467,villa,other, Narayan Vihar,11000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1800-sq-ft-villa-in-narayan-vihar/8177008,1800.0
+468,villa,mansarovar, Mansarovar,10500000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-825-sq-ft-villa-in-mansarovar/8291630,825.0
+469,villa,jagatpura, Jagatpura,10000000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-108-sq-yd-villa-in-jagatpura/8635686,972.0
+470,villa,other, Murlipura,7500000.0,3.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-servant-room-118-sq-yd-villa-in-murlipura/8765223,1062.0
+471,villa,jagatpura, Jagatpura,11100000.000000002,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-1800-sq-ft-villa-in-jgtpur-3bv4s15x60-baksgoy/8608449,1565.0
+472,villa,other, Ramchandpura,7300000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-1000-sq-ft-villa-in-defined-world-city/8393266,1000.0
+473,villa,gandhi path, Gandhi Path,13700000.000000002,4.0,4.0,3.0,3.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-111-sq-yd-villa-in-sky-gandhi-path-wast-jaip/8173883,699.3
+474,villa,other, Beelwa Kalan,5500000.0,3.0,3.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-659-sq-ft-villa-in-shubham-aditya-villa/8307148,573.0
+475,villa,ajmer road, Ajmer Road,49100000.0,4.0,5.0,,2.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-283-sq-yd-villa-in-near-ajmer-road-200-ft-bu/8476602,2547.0
+476,villa,mansarovar, Manyawas,10000000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-750-sq-ft-villa-in-manyawas/8248977,750.0
+477,villa,kalwar road, Kalwar Road,4200000.0,3.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-1300-sq-ft-villa-in-royal-residency-3/8160388,1300.0
+478,villa,jhotwara, Jhotwara,13000000.0,4.0,4.0,3.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-1000-sq-ft-villa-in-sky-property-villa/8285635,1000.0
+479,villa,mansarovar, Mansarovar,15000000.0,3.0,4.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-servant-room-study-room-900-sq-ft-villa-in-sky-mansarovar-villa/8164341,900.0
+480,villa,jhotwara, Jhotwara,7000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-study-room-92-sq-yd-villa-in-indipendent-house-ramesh/8682506,828.0
+481,villa,vaishali nagar, Vaishali Nagar,32100000.0,4.0,5.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-1500-sq-ft-villa-in-sky-property-in-jaipur/8185745,1500.0
+482,villa,mansarovar, Mansarovar,11500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-100-sq-yd-villa-in-mansarovar/8209305,1035.0
+483,villa,kalwar road, Kalwar Road,7500000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-1850-sq-ft-villa-in-sapna-homes/8191563,1850.0
+484,villa,ajmer road, Ajmer Road,16000000.0,5.0,5.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-study-room-133-sq-yd-villa-in-5-bhk-luxury-villa-at-jai/8198616,1040.0
+485,villa,other, Niwaru,7000000.0,4.0,3.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-1850-sq-ft-villa-in-sapna-homes/8214506,1850.0
+486,villa,vaishali nagar, Vidhyut Nagar,37100000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-160-sq-yd-villa-in-jaipur-property-ndream-ho/9639331,1008.0
+487,villa,vaishali nagar, Vaishali Nagar,18500000.0,4.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-118-sq-yd-villa-in-vaishali-nagar/9831770,743.4
+488,villa,sirsi road, Sirsi Road,9500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2100-sq-ft-villa-in-sirsi-road/9724216,2100.0
+489,villa,mansarovar, Mansarovar Extension,32100000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-166-sq-yd-villa-in-jaipur-property-ndream-ho/9674598,1045.8
+490,villa,gandhi path, Gandhi Path,24800000.0,5.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-140-sq-yd-villa-in-jaipur-property-ndream-ho/9674590,882.0
+491,villa,sirsi road, Sirsi Road,16100000.000000002,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-116-sq-yd-villa-in-sirsi-road/9730987,730.8
+492,villa,vaishali nagar, Lalarpura,24000000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-150-sq-yd-villa-in-jaipur-property-ndream-ho/9697331,945.0
+493,villa,central jaipur, Shyam Nagar,30000000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-140-sq-yd-villa-in-shyam-nagar/9794434,882.0
+494,villa,vaishali nagar, Vaishali Nagar,10200000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2100-sq-ft-villa-in-vaishali-nagar/9814104,2100.0
+495,villa,vaishali nagar, Vaishali Nagar,24100000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-3200-sq-ft-villa-in-vaishali-nagar/9846959,2782.0
+496,villa,vaishali nagar, Vaishali Nagar,9800000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2050-sq-ft-villa-in-vaishali-nagar/9814007,2050.0
+497,villa,jagatpura, Jagatpura,15000000.0,3.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1000-sq-ft-villa-in-porwal-realty/9661583,1000.0
+498,villa,jagatpura, Jagatpura,18500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2610-sq-ft-villa-in-porwal-realty/9661511,2610.0
+499,villa,jagatpura, Jagatpura,13500000.0,4.0,3.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-study-room-2000-sq-ft-villa-in-porwal-realty/9704575,2000.0
+500,villa,jagatpura, Jagatpura,15500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1500-sq-ft-villa-in-porwal-realty/9688453,1500.0
+501,villa,jagatpura, Jagatpura,18500000.0,3.0,3.0,2.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-2100-sq-ft-villa-in-jagatpura/9706070,2100.0
+502,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1912-sq-ft-villa-in-pratap-nagar/9868745,1912.0
+503,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1915-sq-ft-villa-in-pratap-nagar/9868746,1915.0
+504,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1930-sq-ft-villa-in-pratap-nagar/9868752,1930.0
+505,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1942-sq-ft-villa-in-pratap-nagar/9868756,1942.0
+506,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1978-sq-ft-villa-in-pratap-nagar/9868768,1978.0
+507,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2000-sq-ft-villa-in-pratap-nagar/9844748,2000.0
+508,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1996-sq-ft-villa-in-pratap-nagar/9844746,1996.0
+509,villa,pratap nagar, Pratap Nagar,14500000.0,6.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-1953-sq-ft-villa-in-pratap-nagar/9844789,1953.0
+510,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1909-sq-ft-villa-in-pratap-nagar/9851072,1909.0
+511,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1962-sq-ft-villa-in-pratap-nagar/9851100,1962.0
+512,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1960-sq-ft-villa-in-pratap-nagar/9851099,1960.0
+513,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1934-sq-ft-villa-in-pratap-nagar/9851084,1934.0
+514,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2026-sq-ft-villa-in-pratap-nagar/9844759,2026.0
+515,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1992-sq-ft-villa-in-pratap-nagar/9844744,1992.0
+516,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1990-sq-ft-villa-in-pratap-nagar/9844743,1990.0
+517,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2024-sq-ft-villa-in-pratap-nagar/9844758,2024.0
+518,villa,jagatpura, Jagatpura,15500000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1800-sq-ft-villa-in-porwal-realty/9681856,1800.0
+520,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1906-sq-ft-villa-in-pratap-nagar/9851071,1906.0
+521,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1900-sq-ft-villa-in-pratap-nagar/9850926,1900.0
+522,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1938-sq-ft-villa-in-pratap-nagar/9851086,1938.0
+523,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1964-sq-ft-villa-in-pratap-nagar/9851101,1964.0
+524,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1946-sq-ft-villa-in-pratap-nagar/9851091,1946.0
+525,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1952-sq-ft-villa-in-pratap-nagar/9851096,1952.0
+526,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1920-sq-ft-villa-in-pratap-nagar/9851077,1920.0
+527,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1951-sq-ft-villa-in-pratap-nagar/9868759,1951.0
+528,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1984-sq-ft-villa-in-pratap-nagar/9868770,1984.0
+529,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1921-sq-ft-villa-in-pratap-nagar/9868749,1921.0
+530,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1986-sq-ft-villa-in-pratap-nagar/9844742,1986.0
+531,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2010-sq-ft-villa-in-pratap-nagar/9844752,2010.0
+532,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2016-sq-ft-villa-in-pratap-nagar/9844754,2016.0
+533,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2012-sq-ft-villa-in-pratap-nagar/9844753,2012.0
+534,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2006-sq-ft-villa-in-pratap-nagar/9844750,2006.0
+535,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1916-sq-ft-villa-in-pratap-nagar/9851073,1916.0
+536,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1918-sq-ft-villa-in-pratap-nagar/9851076,1918.0
+537,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1926-sq-ft-villa-in-pratap-nagar/9851080,1926.0
+538,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1932-sq-ft-villa-in-pratap-nagar/9851082,1932.0
+540,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1954-sq-ft-villa-in-pratap-nagar/9868760,1954.0
+541,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1975-sq-ft-villa-in-pratap-nagar/9868767,1975.0
+542,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1936-sq-ft-villa-in-pratap-nagar/9868754,1936.0
+543,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1945-sq-ft-villa-in-pratap-nagar/9868757,1945.0
+545,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2022-sq-ft-villa-in-pratap-nagar/9844757,2022.0
+546,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2018-sq-ft-villa-in-pratap-nagar/9844755,2018.0
+547,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2020-sq-ft-villa-in-pratap-nagar/9844756,2020.0
+548,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1994-sq-ft-villa-in-pratap-nagar/9844745,1994.0
+549,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1998-sq-ft-villa-in-pratap-nagar/9844747,1998.0
+550,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2003-sq-ft-villa-in-pratap-nagar/9844749,2003.0
+551,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1950-sq-ft-villa-in-pratap-nagar/9851093,1950.0
+554,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1956-sq-ft-villa-in-pratap-nagar/9851097,1956.0
+555,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1970-sq-ft-villa-in-pratap-nagar/9851104,1970.0
+556,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1999-sq-ft-villa-in-pratap-nagar/9868775,1999.0
+557,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1924-sq-ft-villa-in-pratap-nagar/9868750,1924.0
+558,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1927-sq-ft-villa-in-pratap-nagar/9868751,1927.0
+560,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1933-sq-ft-villa-in-pratap-nagar/9868753,1933.0
+561,villa,pratap nagar, Pratap Nagar,14500000.0,6.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-1956-sq-ft-villa-in-pratap-nagar/9844786,1956.0
+563,villa,pratap nagar, Pratap Nagar,14500000.0,6.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-6-bhk-1959-sq-ft-villa-in-pratap-nagar/9844787,1959.0
+564,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1944-sq-ft-villa-in-pratap-nagar/9851089,1944.0
+565,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1940-sq-ft-villa-in-pratap-nagar/9851087,1940.0
+566,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1928-sq-ft-villa-in-pratap-nagar/9851081,1928.0
+568,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1958-sq-ft-villa-in-pratap-nagar/9851098,1958.0
+569,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1922-sq-ft-villa-in-pratap-nagar/9851078,1922.0
+570,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1948-sq-ft-villa-in-pratap-nagar/9851092,1948.0
+572,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1966-sq-ft-villa-in-pratap-nagar/9851102,1966.0
+573,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1968-sq-ft-villa-in-pratap-nagar/9851103,1968.0
+577,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2021-sq-ft-villa-in-pratap-nagar/9813768,2021.0
+586,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1995-sq-ft-villa-in-pratap-nagar/9813758,1995.0
+589,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2009-sq-ft-villa-in-pratap-nagar/9813764,2009.0
+590,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1980-sq-ft-villa-in-pratap-nagar/9813493,1980.0
+592,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1982-sq-ft-villa-in-pratap-nagar/9827834,1982.0
+593,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1988-sq-ft-villa-in-pratap-nagar/9827837,1988.0
+595,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1989-sq-ft-villa-in-pratap-nagar/9813756,1989.0
+607,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2027-sq-ft-villa-in-pratap-nagar/9813733,2027.0
+608,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2015-sq-ft-villa-in-pratap-nagar/9813766,2015.0
+614,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1974-sq-ft-villa-in-pratap-nagar/9827829,1974.0
+618,villa,jagatpura, Jagatpura,18700000.0,5.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-2700-sq-ft-villa-in-porwal-realty/9674580,2700.0
+619,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1983-sq-ft-villa-in-pratap-nagar/9813755,1983.0
+622,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1976-sq-ft-villa-in-pratap-nagar/9827831,1976.0
+623,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1972-sq-ft-villa-in-pratap-nagar/9827828,1972.0
+627,villa,jagatpura, Jagatpura,14500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1500-sq-ft-villa-in-porwal-realty/9690776,1500.0
+628,villa,jagatpura, Jagatpura,17500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1800-sq-ft-villa-in-porwal-realty/9667815,1800.0
+629,villa,jagatpura, Jagatpura,9500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-900-sq-ft-villa-in-jagatpura/9661645,900.0
+630,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1914-sq-ft-villa-in-pratap-nagar/9851074,1914.0
+632,villa,jagatpura, Jagatpura,14500000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2500-sq-ft-villa-in-porwal-realty/9731480,2500.0
+633,villa,central jaipur, Malviya Nagar,18500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-155-sq-ft-villa-in-porwal-realty/9697112,155.0
+634,villa,jagatpura, Jagatpura,15500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-study-room-2000-sq-ft-villa-in-porwal-realty/9722206,2000.0
+635,villa,jagatpura, Jagatpura,17000000.0,5.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-2100-sq-ft-villa-in-porwal-realty/9722186,2100.0
+636,villa,jagatpura, Jagatpura,14100000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1500-sq-ft-villa-in-porwal-realty/9736028,1500.0
+637,villa,central jaipur, Malviya Nagar,6500000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-study-room-1750-sq-ft-villa-in-malviya-nagar/9746183,1750.0
+641,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2008-sq-ft-villa-in-pratap-nagar/9844751,2008.0
+644,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1969-sq-ft-villa-in-pratap-nagar/9844734,1969.0
+646,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1963-sq-ft-villa-in-pratap-nagar/9844732,1963.0
+650,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2004-sq-ft-villa-in-pratap-nagar/9794949,2004.0
+657,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1903-sq-ft-villa-in-pratap-nagar/9827786,1903.0
+661,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2002-sq-ft-villa-in-pratap-nagar/9801357,2002.0
+662,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2005-sq-ft-villa-in-pratap-nagar/9801358,2005.0
+663,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2025-sq-ft-villa-in-pratap-nagar/9801367,2025.0
+669,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-2000-sq-ft-villa-in-pratap-nagar/9794946,2000.0
+670,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2007-sq-ft-villa-in-pratap-nagar/9801356,2007.0
+682,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2011-sq-ft-villa-in-pratap-nagar/9801362,2011.0
+683,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2023-sq-ft-villa-in-pratap-nagar/9801366,2023.0
+686,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2013-sq-ft-villa-in-pratap-nagar/9801359,2013.0
+687,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2017-sq-ft-villa-in-pratap-nagar/9801363,2017.0
+688,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2019-sq-ft-villa-in-pratap-nagar/9801364,2019.0
+689,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-2030-sq-ft-villa-in-pratap-nagar/9801368,2030.0
+693,villa,central jaipur, Malviya Nagar,12500000.0,3.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-study-room-1500-sq-ft-villa-in-malviya-nagar/9750221,1500.0
+694,villa,jagatpura, Jagatpura,14500000.0,3.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-study-room-1500-sq-ft-villa-in-porwal-realty/9722192,1500.0
+695,villa,jagatpura, Jagatpura,25000000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-2700-sq-ft-villa-in-porwal-realty/9687637,2700.0
+696,villa,jagatpura, Jagatpura,14000000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1255-sq-ft-villa-in-porwal-realty/9688596,1255.0
+697,villa,mansarovar, Mansarovar Extension,25100000.0,6.0,5.0,1.0,,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-3301-sq-ft-villa-in-mansarovar-extension/9869000,3301.0
+701,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1981-sq-ft-villa-in-pratap-nagar/9868769,1981.0
+702,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1987-sq-ft-villa-in-pratap-nagar/9868771,1987.0
+705,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1957-sq-ft-villa-in-pratap-nagar/9868761,1957.0
+710,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1993-sq-ft-villa-in-pratap-nagar/9868773,1993.0
+713,villa,pratap nagar, Pratap Nagar,14500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-1939-sq-ft-villa-in-pratap-nagar/9868755,1939.0
+716,villa,agra road, Agra Road,4205000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1355-sq-ft-villa-in-agra-road/9796599,1355.0
+717,villa,agra road, Agra Road,4260000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1360-sq-ft-villa-in-agra-road/9796616,1360.0
+718,villa,agra road, Agra Road,4240000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1340-sq-ft-villa-in-agra-road/9796621,1340.0
+719,villa,agra road, Agra Road,4202000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1325-sq-ft-villa-in-agra-road/9796607,1325.0
+720,villa,agra road, Agra Road,4210000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1290-sq-ft-villa-in-agra-road/9796630,1290.0
+721,villa,agra road, Agra Road,4300000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1400-sq-ft-villa-in-agra-road/9796559,1400.0
+722,villa,agra road, Agra Road,4290000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1390-sq-ft-villa-in-agra-road/9796612,1390.0
+723,villa,agra road, Agra Road,4220000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1320-sq-ft-villa-in-agra-road/9796623,1320.0
+724,villa,agra road, Agra Road,4210000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1310-sq-ft-villa-in-agra-road/9796625,1310.0
+725,villa,agra road, Agra Road,4270000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1370-sq-ft-villa-in-agra-road/9796614,1370.0
+726,villa,agra road, Agra Road,4203000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1335-sq-ft-villa-in-agra-road/9796604,1335.0
+727,villa,agra road, Agra Road,4330000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1430-sq-ft-villa-in-agra-road/9796533,1430.0
+728,villa,agra road, Agra Road,4220000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1300-sq-ft-villa-in-agra-road/9796628,1300.0
+729,villa,agra road, Agra Road,4230000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1330-sq-ft-villa-in-agra-road/9796622,1330.0
+730,villa,agra road, Agra Road,4390000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1490-sq-ft-villa-in-agra-road/9796521,1490.0
+731,villa,agra road, Agra Road,4206000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1365-sq-ft-villa-in-agra-road/9796596,1365.0
+732,villa,agra road, Agra Road,4310000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1410-sq-ft-villa-in-agra-road/9796551,1410.0
+733,villa,agra road, Agra Road,4320000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1420-sq-ft-villa-in-agra-road/9796542,1420.0
+734,villa,agra road, Agra Road,4201000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1315-sq-ft-villa-in-agra-road/9796610,1315.0
+735,villa,agra road, Agra Road,4340000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1440-sq-ft-villa-in-agra-road/9796532,1440.0
+736,villa,agra road, Agra Road,4204000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1345-sq-ft-villa-in-agra-road/9796601,1345.0
+737,villa,agra road, Agra Road,4370000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1470-sq-ft-villa-in-agra-road/9796524,1470.0
+738,villa,agra road, Agra Road,4209000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1395-sq-ft-villa-in-agra-road/9796566,1395.0
+739,villa,agra road, Agra Road,4380000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1480-sq-ft-villa-in-agra-road/9796522,1480.0
+740,villa,ajmer road, Ajmer Road,15600000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-120-sq-yd-villa-in-ajmer-road/9803569,1080.0
+741,villa,jagatpura, Jagatpura,13500000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-111-sq-yd-villa-in-porwal-realty/9642372,999.0
+742,villa,ajmer road, Ajmer Road,15300000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-110-sq-yd-villa-in-ajmer-road/9803434,990.0
+743,villa,ajmer road, Ajmer Road,12900000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-120-sq-yd-villa-in-ajmer-road/9804226,1080.0
+744,villa,ajmer road, Ajmer Road,13000000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-110-sq-yd-villa-in-ajmer-road/9804231,990.0
+745,villa,ajmer road, Ajmer Road,15600000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-144-sq-yd-villa-in-ajmer-road/9803724,1296.0
+746,villa,ajmer road, Ajmer Road,12300000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-120-sq-yd-villa-in-ajmer-road/9803514,1080.0
+747,villa,ajmer road, Ajmer Road,14800000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-125-sq-yd-villa-in-ajmer-road/9803608,1125.0
+748,villa,ajmer road, Ajmer Road,16600000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-156-sq-yd-villa-in-ajmer-road/9803717,1404.0
+749,villa,ajmer road, Ajmer Road,13300000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-143-sq-yd-villa-in-ajmer-road/9803803,1287.0
+750,villa,ajmer road, Ajmer Road,14500000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-120-sq-yd-villa-in-ajmer-road/9804201,1080.0
+751,villa,ajmer road, Ajmer Road,14300000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-133-sq-yd-villa-in-ajmer-road/9804147,1197.0
+752,villa,ajmer road, Ajmer Road,13600000.000000002,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-126-sq-yd-villa-in-ajmer-road/9803710,1134.0
+753,villa,ajmer road, Ajmer Road,13000000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-120-sq-yd-villa-in-ajmer-road/9803560,1080.0
+754,villa,ajmer road, Ajmer Road,12300000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-110-sq-yd-villa-in-ajmer-road/9804157,990.0
+755,villa,ajmer road, Ajmer Road,16500000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-150-sq-yd-villa-in-ajmer-road/9803611,1350.0
+757,villa,ajmer road, Ajmer Road,13500000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-125-sq-yd-villa-in-ajmer-road/9803630,1125.0
+758,villa,ajmer road, Ajmer Road,14500000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-125-sq-yd-villa-in-ajmer-road/9803594,1125.0
+759,villa,ajmer road, Ajmer Road,13500000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-130-sq-yd-villa-in-ajmer-road/9803701,1170.0
+760,villa,ajmer road, Ajmer Road,14600000.0,4.0,2.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-135-sq-yd-villa-in-ajmer-road/9803617,1215.0
+761,villa,dhawas, Dhawas,14100000.0,2.0,2.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-800-sq-ft-villa-in-dhawas/9792979,800.0
+762,villa,other, Paldi Meena,6200000.0,3.0,3.0,,,unfurnished,https://www.squareyards.com/resale-3-bhk-125-sq-yd-villa-in-paldi-meena/9745532,1125.0
+763,villa,gandhi path, Gandhi Path,18500000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-122-sq-yd-villa-in-jaipur-property-ndream-ho/9625742,768.6
+765,villa,other, Kalwara,28500000.0,5.0,5.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-extra-room-5000-sq-ft-villa-in-galaxy-enclave-the-urban/8670580,5000.0
+767,villa,mansarovar, Mansarovar,9796000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-768-sq-ft-villa-in-mansarovar/9136242,768.0
+768,villa,gokulpura, Gokulpura,11100000.000000002,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-111-sq-yd-villa-in-gokulpura/8656095,699.3
+769,villa,govindpura, Gov,7500000.0,4.0,4.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1900-sq-ft-villa-in-govindpura-kalwar-road/8923169,1900.0
+770,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-89-sq-yd-villa-in-sirsi-road/9430892,801.0
+771,villa,kalwar road, Kalwar Road,6000000.0,3.0,2.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1500-sq-ft-villa-in-kalwar-road/8631830,1500.0
+772,villa,ajmer road, Ajmer Road,16500000.0,4.0,5.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-2450-sq-ft-villa-in-manglam-anantara-the-villas/8190257,2130.0
+773,villa,vaishali nagar, Vaishali Nagar,16000000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-113-sq-yd-villa-in-vaishali-nagar/8497518,1017.0
+774,villa,ajmer road, Ajmer Road,3700000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-90-sq-yd-villa-in-ajmer-road/9090730,810.0
+775,villa,sirsi road, Sirsi Road,12100000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-2150-sq-ft-villa-in-dream-villa-janak-vihar/9270123,2150.0
+776,villa,ajmer road, Ajmer Road,7384000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-88-sq-mt-villa-in-ajmer-road/9437299,880.0
+777,villa,ajmer road, Ajmer Road,6595000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-76-sq-mt-villa-in-ajmer-road/9437277,760.0
+778,villa,mansarovar, Patrakar Colony,9600000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-study-room-1042-sq-ft-villa-in-ravi-kiran/8673311,1198.0
+779,villa,ajmer road, Ajmer Road,11500000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-120-sq-yd-villa-in-khushi-vihar/8993648,1080.0
+780,villa,other, Kalwara,31600000.0,3.5,4.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-3-5-bhk-pooja-room-servant-room-study-room-5000-sq-yd-villa-in-galaxy-enclave-kalwara/8848718,45000.0
+781,villa,kalwar road, Kalwar Road,5520000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1410-sq-ft-villa-in-ansal-sushant-city-ii/9481616,1410.0
+782,villa,ajmer road, Ajmer Road,3700000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-95-sq-yd-villa-in-ajmer-road/9090742,855.0
+783,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-97-sq-yd-villa-in-sirsi-road/9430899,873.0
+784,villa,mansarovar, Mansarovar Extension,19000000.0,4.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2800-sq-ft-villa-in-mansarovar-extension/9384170,2800.0
+785,villa,mansarovar, Mansarovar,9766000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-767-sq-ft-villa-in-mansarovar/9136200,767.0
+786,villa,kalwar road, Kalwar Road,7600000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-108-sq-yd-villa-in-kanhaiya-kunj-kalwar/8483773,680.4
+788,villa,kalwar road, Kalwar Road,6100000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1600-sq-ft-villa-in-kalwar-road/8369069,1600.0
+789,villa,other, Kalwara,12500000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-servant-room-152-sq-yd-villa-in-mahindra-world-city-jaipur/8969975,1368.0
+790,villa,other, Kalwara,12400000.0,3.0,3.0,2.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-servant-room-152-sq-yd-villa-in-galaxy-the-urban-village/8663908,957.6
+791,villa,central jaipur, Tonk Phatak,11500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-78-sq-yd-villa-in-tonk-phatak/8420659,702.0
+792,villa,kalwar road, Kalwar Road,6500000.0,3.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-100-sq-yd-villa-in-kalwar-road/8517112,630.0
+793,villa,other, Niwaru,9000000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-100-sq-yd-villa-in-niwaru/8678380,630.0
+794,villa,jagatpura, Jagatpura,7500000.0,3.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1250-sq-ft-villa-in-porwal-realty/9214260,1250.0
+795,villa,mansarovar, Mansarovar,32100000.0,5.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-3600-sq-ft-villa-in-porwal-realty/9243840,3600.0
+796,villa,gandhi path, Gandhi Path,19100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2200-sq-ft-villa-in-jaipur-property-n-dream-h/8673301,1913.0
+798,villa,vaishali nagar, Vaishali Nagar,35100000.0,4.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-144-sq-yd-villa-in-jaipur-property-n-dream-h/9093246,907.2
+799,villa,sanganer, Dadu Dayal Nagar,17500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-2800-sq-ft-villa-in-apne-zameen-apna-aasman/9473412,2800.0
+800,villa,mansarovar, Mansarovar Extension,20000000.0,5.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-extra-room-138-sq-yd-villa-in-jaipur-property-n-dream-h/9233524,869.4
+801,villa,central jaipur, Shyam Nagar,32500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-160-sq-yd-villa-in-jaipur-property-ndream-ho/9513808,1008.0
+802,villa,gandhi path, Gandhi Path,18500000.0,4.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-1245-sq-ft-villa-in-jaipur-property-n-dream-h/9456636,1245.0
+804,villa,other, Nari Ka Bas,8500000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2300-sq-ft-villa-in-ansal-sushant-city/8500127,2300.0
+806,villa,other, Machwa,6600000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1700-sq-ft-villa-in-kedia-aravali/8543330,1700.0
+807,villa,shri kishanpura, Shri Kishanpura,15000000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-116-sq-yd-villa-in-ashadeep-green-valley/9117148,907.0
+808,villa,jagatpura, Jagatpura,21100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-133-sq-yd-villa-in-shiv-nagar-jagatpura/9142794,1197.0
+809,villa,kishorpura, Kishorpura,2600000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-servant-room-study-room-extra-room-1300-sq-ft-villa-in-vrb-the-platinum/8203961,1300.0
+810,villa,sirsi road, Sirsi Road,19700000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1900-sq-ft-villa-in-sirsi-road/9298398,1900.0
+811,villa,gandhi path, Gandhi Path,11800000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-2245-sq-ft-villa-in-gandhi-path/9401220,2245.0
+812,villa,other, Narayan Vihar,9500000.0,3.0,3.0,,2.0,furnished,https://www.squareyards.com/resale-3-bhk-1900-sq-ft-villa-in-narayan-vihar/8722927,1900.0
+813,villa,sirsi road, Sirsi Road,18000000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1589-sq-ft-villa-in-sirsi-road/9206569,1589.0
+814,villa,kalwar road, Kalwar Road,9900000.0,4.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-126-sq-ft-villa-in-kalwar-road/9026964,126.0
+815,villa,govindpura, Gov,6000000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-78-sq-yd-villa-in-govindpura/9097323,702.0
+816,villa,kalwar road, Kalwar Road,3200000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-1700-sq-ft-villa-in-ansal-anandlok-plots/8762745,1700.0
+817,villa,other, Kardhani,8500000.0,3.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-100-sq-yd-villa-in-kardhani/8781130,782.0
+818,villa,ajmer road, Ajmer Road,12100000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-138-sq-yd-villa-in-shree-balaji-chamber-and/9091241,1242.0
+820,villa,mansarovar, Mansarovar,9740000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-766-sq-ft-villa-in-mansarovar/9136218,766.0
+821,villa,mansarovar, Mansarovar,9779000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-768-sq-ft-villa-in-mansarovar/9136238,768.0
+822,villa,kalwar road, Kalwar Road,6000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-83-sq-yd-villa-in-kalwar-road/8502136,522.9
+823,villa,mansarovar, Mohanpura,10200000.0,3.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-study-room-1042-sq-ft-villa-in-ravi-kiran-vihar/8673286,1198.0
+824,villa,ajmer road, Ajmer Road,3700000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-80-sq-yd-villa-in-shree-balaji-chamber-and/9090539,720.0
+825,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-95-sq-yd-villa-in-sirsi-road/9430897,855.0
+826,villa,vaishali nagar, Vaishali Nagar,14500000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-205-sq-yd-villa-in-vaishali-nagar/8817820,1845.0
+828,villa,ajmer road, Ajmer Road,7395999.999999999,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-88-sq-mt-villa-in-ajmer-road/9437301,880.0
+829,villa,ajmer road, Ajmer Road,7530000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-95-sq-mt-villa-in-ajmer-road/9437305,950.0
+830,villa,sirsi road, Sirsi Road,9351000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2150-sq-ft-villa-in-anandam-villa-radha-vihar/9256472,2150.0
+831,villa,kalwar road, Kalwar Road,7500000.0,3.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-2000-sq-ft-villa-in-kalwar-road/8642193,2000.0
+832,villa,other, Ganeshpura,10000000.0,4.0,2.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-1800-sq-ft-villa-in-ganesh-nagar/8421191,1800.0
+833,villa,mansarovar, Sumer Nagar,14000000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-1700-sq-ft-villa-in-sumer-nagar/8413208,1700.0
+834,villa,mansarovar, Patrakar Colony,12000000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-100-sq-yd-villa-in-khushi-vihar/8967190,900.0
+835,villa,ajmer road, Jaipur Ajmer Express Highway,4200000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1200-sq-ft-villa-in-hatoj-chirau-hosp/9104545,1200.0
+836,villa,govindpura, Gov,5000000.0,4.0,3.0,,,semi-furnished,https://www.squareyards.com/resale-4-bhk-1500-sq-ft-villa-in-govindpura/8915541,1500.0
+837,villa,kalwar road, Kalwar Road,5506000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1405-sq-ft-villa-in-ansal-sushant-city-ii/9481599,1405.0
+838,villa,kalwar road, Kalwar Road,5550000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1415-sq-ft-villa-in-ansal-sushant-city-ii/9481622,1415.0
+839,villa,mansarovar, Mansarovar Extension,11500000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1800-sq-ft-villa-in-monika-villa/9012198,1565.0
+840,villa,agra road, Agra Road,2500000.0,2.0,1.0,1.0,,unfurnished,https://www.squareyards.com/resale-2-bhk-50-sq-yd-villa-in-agra-road/8282869,450.0
+841,villa,kalwar road, Kalwar Road,2500000.0,2.0,1.0,,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-500-sq-ft-villa-in-kalwar-road/9015964,500.0
+843,villa,mansarovar, Mansarovar,9860000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-810-sq-ft-villa-in-mansarovar/9136253,810.0
+846,villa,gandhi path, Gandhi Path,18500000.0,4.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-111-sq-yd-villa-in-jaipur-property-ndream-ho/9456828,999.0
+847,villa,dhawas, Dhawas,17500000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-133-sq-yd-villa-in-jaipur-property-n-dream-h/8346714,837.9
+848,villa,mansarovar, Mansarovar Extension,33100000.0,4.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-160-sq-yd-villa-in-jaipur-property-n-dream-h/9110621,1008.0
+849,villa,nirman nagar, Nirman Nagar,22500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-extra-room-117-sq-yd-villa-in-jaipur-property-n-dream-h/8180651,737.1
+850,villa,central jaipur, Gurjar Ki Thadi,28500000.0,5.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-155-sq-yd-villa-in-jaipur-property-n-dream-h/9228146,976.5
+851,villa,gandhi path, Gandhi Path,15000000.0,3.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-study-room-120-sq-yd-villa-in-apni-zameen-apna-aasman/8291702,756.0
+852,villa,mansarovar, Manyawas,21500000.0,6.0,6.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-study-room-166-sq-yd-villa-in-manyawas/8723129,1045.8
+853,villa,sodala, Sodala,32500000.0,5.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-161-sq-yd-villa-in-jaipur-property-n-dream-h/9274406,1014.3
+854,villa,jagatpura, Jagatpura,14500000.0,3.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1800-sq-ft-villa-in-porwal-realty/9546924,1800.0
+855,villa,central jaipur, P,14500000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-108-sq-ft-villa-in-porwal-realty/9039459,108.0
+856,villa,central jaipur, Tonk Phatak,12500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-86-sq-yd-villa-in-tonk-phatak/8420309,774.0
+857,villa,other, Kalwara,28500000.0,6.0,4.0,2.0,,semi-furnished,https://www.squareyards.com/resale-6-bhk-servant-room-373-sq-yd-villa-in-galaxy-enclave-kalwara/8664555,3357.0
+858,villa,vaishali nagar, Vaishali Nagar,35500000.0,6.0,6.0,,,furnished,https://www.squareyards.com/resale-6-bhk-pooja-room-120-sq-mt-villa-in-park-vaishali/9183840,1200.0
+859,villa,jagatpura, Jagatpura,10000000.0,3.0,2.0,1.0,,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-100-sq-yd-villa-in-the-nest/8990797,900.0
+860,villa,gandhi path, Gandhi Path,23100000.0,5.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-4850-sq-ft-villa-in-dream-luxury-kothi-gandhi/9199315,4850.0
+861,villa,gandhi path, Gandhi Path,40000000.0,4.0,5.0,2.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-208-sq-yd-villa-in-gandhi-path/8488597,1872.0
+862,villa,vaishali nagar, Vaishali Nagar,12500000.0,4.0,3.0,1.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-100-sq-yd-villa-in-vaishali-nagar/8476072,900.0
+863,villa,sirsi road, Sirsi Road,19000000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1637-sq-ft-villa-in-sirsi-road/9206589,1637.0
+864,villa,gokulpura, Gokulpura,8000000.0,4.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1800-sq-ft-villa-in-gokulpura/8504538,1800.0
+865,villa,kalwar road, Kalwar Road,3600000.0,2.0,2.0,,,semi-furnished,https://www.squareyards.com/resale-2-bhk-630-sq-ft-villa-in-kalwar-road/8717868,630.0
+867,villa,shri kishanpura, Shri Kishanpura,5300000.0,3.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1600-sq-ft-villa-in-mahal-niwas/8592302,1600.0
+868,villa,other, Hathoj,4800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1700-sq-ft-villa-in-govind-sarover/8463562,1700.0
+869,villa,kishorpura, Kishorpura,3400000.0,2.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-servant-room-study-room-1200-sq-ft-villa-in-rr-homes-kishorpura/8762455,1200.0
+870,villa,other, Nari Ka Bas,7000000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2300-sq-ft-villa-in-ansal-sushant-city/8562075,2300.0
+871,villa,kalwar road, Kalwar Road,2700000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-servant-room-study-room-extra-room-1300-sq-ft-villa-in-real-greens/8326498,1300.0
+873,villa,ajmer road, Ajmer Road,12100000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-140-sq-yd-villa-in-shree-balaji-chamber-and/9091225,1260.0
+874,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-87-sq-yd-villa-in-sirsi-road/9430890,783.0
+875,villa,kalwar road, Kalwar Road,6500000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-1800-sq-ft-villa-in-kalwar-road/9029254,1800.0
+876,villa,other, Panchyawala,23100000.0,4.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-study-room-150-sq-yd-villa-in-rangoli-villa/8807096,1350.0
+877,villa,mansarovar, Mansarovar,9710000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-766-sq-ft-villa-in-mansarovar/9136216,766.0
+878,villa,vaishali nagar, Vaishali Nagar,14100000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-study-room-116-sq-yd-villa-in-rangoli-villa/8707020,1044.0
+879,villa,kalwar road, Kalwar Road,5100000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1500-sq-ft-villa-in-ansals-sushant-city-i-spanish-villa/8501365,1500.0
+880,villa,mansarovar, Mohanpura,9600000.0,3.0,3.0,,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1042-sq-ft-villa-in-ravi-kiran-vihar/8673247,1198.0
+881,villa,govindpura, Gov,5051000.0,3.5,4.0,,1.0,semi-furnished,https://www.squareyards.com/resale-3-5-bhk-pooja-room-1745-sq-ft-villa-in-govindpura/9086613,1745.0
+882,villa,gandhi path, Gandhi Path,14500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-study-room-139-sq-yd-villa-in-narayan-prime-villa/8485365,1251.0
+883,villa,ajmer road, Ajmer Road,16500000.0,4.0,5.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-2450-sq-ft-villa-in-manglam-anantara-the-villas/8190307,2130.0
+884,villa,ajmer road, Ajmer Road,6063000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-71-sq-mt-villa-in-ajmer-road/9437323,710.0
+885,villa,vaishali nagar, Vaishali Nagar,19500000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-3100-sq-ft-villa-in-dream-villa-bhuvneshwar-v/9192215,3100.0
+886,villa,mansarovar, Mansarovar,9600000.0,3.0,4.0,3.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-761-sq-ft-villa-in-mansarovar/8861035,761.0
+887,villa,sirsi road, Sirsi Road,9490000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2150-sq-ft-villa-in-anandam-villa-radha-vihar/9187757,2150.0
+888,villa,kalwar road, Kalwar Road,12500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2600-sq-ft-villa-in-kalwar-road/8702081,2600.0
+889,villa,sanganer, Sanganer,9500000.0,4.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-80-sq-yd-villa-in-amrit-nagar/8417051,720.0
+890,villa,ajmer road, Ajmer Road,6500000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-1500-sq-ft-villa-in-ganesh-nagar/8993557,1500.0
+891,villa,mansarovar, Patrakar Colony,5400000.0,2.0,2.0,1.0,,unfurnished,https://www.squareyards.com/resale-2-bhk-45-sq-yd-villa-in-patrakar-colony/8598644,405.0
+892,villa,kalwar road, Kalwar Road,10000000.0,3.5,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-5-bhk-pooja-room-140-sq-yd-villa-in-kanhaiya-kunj-kalwar/8483840,882.0
+893,villa,govindpura, Gov,5100000.0,4.0,3.0,,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-1350-sq-ft-villa-in-radhey-vihar-govindpura/9083104,1350.0
+895,villa,kalwar road, Kalwar Road,5000000.0,3.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1500-sq-ft-villa-in-kalwar-road/9029052,1500.0
+896,villa,kalwar road, Kalwar Road,5511000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1405-sq-ft-villa-in-ansal-sushant-city-ii/9481604,1405.0
+897,villa,mansarovar, Mansarovar Extension,12100000.0,3.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1850-sq-ft-villa-in-mansarovar-extension/8859355,1850.0
+898,villa,sirsi road, Sirsi Road,12100000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2150-sq-ft-villa-in-dream-villa-janak-vihar-n/9256489,2150.0
+899,villa,gandhi path, Gandhi Path,9900000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1800-sq-ft-villa-in-gandhi-path/8540832,1565.0
+900,villa,vaishali nagar, Vaishali Nagar,10000000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1600-sq-ft-villa-in-vaishali-nagar/8781057,1600.0
+901,villa,mansarovar, Mansarovar,7000000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1600-sq-ft-villa-in-mansarovar/8359622,1391.0
+902,villa,mansarovar, Mansarovar,9718000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-767-sq-ft-villa-in-mansarovar/9136204,767.0
+903,villa,sodala, Sodala,23500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-130-sq-ft-villa-in-sodala/8333813,130.0
+904,villa,central jaipur, Tonk Phatak,21500000.0,4.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-133-sq-ft-villa-in-tonk-phatak/8468818,133.0
+905,villa,central jaipur, Model Town,15000000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-2000-sq-ft-villa-in-porwal-realty/9274278,2000.0
+906,villa,jagatpura, Jagatpura,6300000.0,3.0,3.0,2.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-650-sq-ft-villa-in-porwal-realty/9008276,650.0
+908,villa,dhawas, Dhawas,24100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-138-sq-yd-villa-in-jaipur-property-ndream-ho/9485881,869.4
+909,villa,vaishali nagar, Vaishali Nagar,35100000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-166-sq-yd-villa-in-jaipur-property-n-dream-h/9148519,1045.8
+911,villa,nirman nagar, Nirman Nagar,31100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-145-sq-yd-villa-in-jaipur-property-n-dream-h/9078635,913.5
+912,villa,mansarovar, Mansarovar Extension,16500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-106-sq-yd-villa-in-apne-zameen-apna-aasman/9326176,667.8
+914,villa,sodala, Sodala,32100000.0,5.0,6.0,1.0,1.0,furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-study-room-4200-sq-ft-villa-in-jaipur-property-n-dream-h/9227999,4200.0
+915,villa,sirsi road, Sirsi Road,17000000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1878-sq-ft-villa-in-sirsi-road/9206658,1878.0
+916,villa,other, Narayan Vihar,9700000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-2200-sq-ft-villa-in-narayan-vihar/9333256,2200.0
+917,villa,gandhi path, Gandhi Path,11500000.0,3.0,3.0,,2.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1900-sq-ft-villa-in-gandhi-path/8685868,1900.0
+918,villa,sirsi road, Sirsi Road,18000000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1555-sq-ft-villa-in-sirsi-road/9206551,1555.0
+919,villa,jagatpura, Jagatpura,10300000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-93-sq-yd-villa-in-raj-laxmi-enclave-8th/9220414,837.0
+920,villa,kalwar road, Kalwar Road,6500000.0,3.0,4.0,,,semi-furnished,https://www.squareyards.com/resale-3-bhk-900-sq-ft-villa-in-kalwar-road/8326278,900.0
+921,villa,vaishali nagar, Vaishali Nagar,37100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-144-sq-yd-villa-in-vaishali-nagar/8867026,1296.0
+922,villa,sirsi road, Sirsi Road,9000000.0,3.0,4.0,,,semi-furnished,https://www.squareyards.com/resale-3-bhk-106-sq-yd-villa-in-sirsi-road/9100783,954.0
+923,villa,ajmer road, Jaipur Ajmer Express Highway,3700000.0,2.0,2.0,,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-80-sq-yd-villa-in-jaipur-ajmer-express-highway/8959055,720.0
+924,villa,chitrakoot, Chitrakoot,35000000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-144-sq-yd-villa-in-chitrakoot/9479085,907.2
+925,villa,mansarovar, Mansarovar,9750000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-762-sq-ft-villa-in-mansarovar/9135586,762.0
+926,villa,mansarovar, Mansarovar,9778000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-769-sq-ft-villa-in-mansarovar/9136228,769.0
+927,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-94-sq-yd-villa-in-sirsi-road/9430896,846.0
+928,villa,kalwar road, Kalwar Road,5500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-97-sq-yd-villa-in-kalwar-road/8781170,759.0
+929,villa,ajmer road, Ajmer Road,3700000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-92-sq-yd-villa-in-shree-balaji-chamber-and/9090766,828.0
+930,villa,other, Kardhani,15500000.0,4.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-144-sq-yd-villa-in-kardhani/8516547,907.2
+931,villa,govindpura, Gov,7450000.0,4.0,4.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-4-bhk-pooja-room-1775-sq-ft-villa-in-govindpura-kalwar-road/9081328,1775.0
+933,villa,ajmer road, Ajmer Road,6850000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-80-sq-mt-villa-in-ajmer-road/9437282,800.0
+934,villa,kalwar road, Kalwar Road,4800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-study-room-1400-sq-ft-villa-in-kalwar-road/8595209,1400.0
+936,villa,ajmer road, Ajmer Road,9900000.0,4.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-study-room-2250-sq-ft-villa-in-dream-villa-bhakhrota/9196320,2250.0
+937,villa,vaishali nagar, Vaishali Nagar,33100000.0,5.0,6.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-4811-sq-ft-villa-in-anandam-luxury-kothi-near/9192621,4811.0
+938,villa,kalwar road, Kalwar Road,5514000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1405-sq-ft-villa-in-ansal-sushant-city-ii/9481607,1405.0
+939,villa,sanganer, New Sanganer Road,21100000.0,4.0,4.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-2800-sq-ft-villa-in-new-sanganer-road/8364980,2800.0
+940,villa,mansarovar, Mansarovar Extension,9600000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-1800-sq-ft-villa-in-mansarovar-extension/8594366,1800.0
+941,villa,jhotwara, Jhotwara,17000000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-133-sq-yd-villa-in-jhotwara/8517178,837.9
+944,villa,mansarovar, Mansarovar Extension,25100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-130-sq-yd-villa-in-jaipur-property-n-dream-h/9110635,819.0
+946,villa,dhawas, Dhawas,17500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-111-sq-yd-villa-in-jaipur-property-n-dream-h/8999056,999.0
+947,villa,mansarovar, Mansarovar Extension,33100000.0,4.0,5.0,2.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-166-sq-yd-villa-in-jaipur-property-n-dream-h/9113543,1045.8
+952,villa,ajmer road, Ajmer Road,16500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-extra-room-2450-sq-ft-villa-in-manglam-anantara-the-villas/8389164,2450.0
+953,villa,vaishali nagar, Vaishali Nagar,27100000.0,4.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-166-sq-yd-villa-in-vaishali-nagar/8472475,1494.0
+954,villa,jagatpura, Jagatpura,18500000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-121-sq-yd-villa-in-porwal-realty/9469762,1089.0
+956,villa,mansarovar, Mansarovar Extension,16500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-2600-sq-ft-villa-in-jaipur-property-ndream-ho/9479081,2600.0
+957,villa,kishorpura, Kishorpura,4700000.0,5.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-villa-in-vrb-the-platinum/8254593,1800.0
+958,villa,kalwar road, Kalwar Road,9500000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-2500-sq-ft-villa-in-real-greens/8472987,2500.0
+959,villa,other, Machwa,6300000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1530-sq-ft-villa-in-kedia-aravali/8778829,1530.0
+960,villa,kishorpura, Kishorpura,4800000.0,3.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1800-sq-ft-villa-in-rr-homes-kishorpura/8242047,1800.0
+962,villa,shri kishanpura, Shri Kishanpura,4700000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-2100-sq-ft-villa-in-kamla-nagar/8203947,2100.0
+963,villa,other, Hathoj,4600000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-servant-room-study-room-extra-room-1700-sq-ft-villa-in-riyasat-tarang/8244211,1700.0
+964,villa,jagatpura, Jagatpura,12100000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-extra-room-100-sq-yd-villa-in-major-sankalp-colony-vill/9120938,900.0
+965,villa,ajmer road, Jaipur Ajmer Express Highway,5600000.0,3.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-100-sq-yd-villa-in-jaipur-ajmer-express-highway/9057174,900.0
+966,villa,govindpura, Gov,8400000.0,4.0,3.0,,,semi-furnished,https://www.squareyards.com/resale-4-bhk-105-sq-yd-villa-in-govindpura/9100800,945.0
+967,villa,sirsi road, Sirsi Road,19500000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1696-sq-ft-villa-in-sirsi-road/9298372,1696.0
+968,villa,sirsi road, Sirsi Road,19500000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1739-sq-ft-villa-in-sirsi-road/9298377,1739.0
+969,villa,ajmer road, Ajmer Road,12100000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-130-sq-yd-villa-in-shree-balaji-chamber-and/9091275,1170.0
+971,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-100-sq-yd-villa-in-sirsi-road/9430902,900.0
+972,villa,kalwar road, Kalwar Road,3000000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-750-sq-ft-villa-in-kalwar-road/9033487,750.0
+973,villa,pratap nagar, Tonk Road,18000000.0,4.0,3.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-120-sq-ft-villa-in-mahima-sansaar/9090788,120.0
+974,villa,mansarovar, Mansarovar,9705000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-766-sq-ft-villa-in-mansarovar/9136214,766.0
+975,villa,kalwar road, Kalwar Road,5800000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-80-sq-yd-villa-in-kalwar-road/8483420,504.0
+976,villa,ajmer road, Ajmer Road,3700000.0,2.0,2.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-2-bhk-pooja-room-88-sq-yd-villa-in-shree-balaji-chamber-and/9090735,792.0
+977,villa,other, Kardhani,18500000.0,4.0,4.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-144-sq-yd-villa-in-kardhani/8516631,907.2
+978,villa,sirsi road, Sirsi Road,7552000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-96-sq-yd-villa-in-sirsi-road/9430898,864.0
+979,villa,govindpura, Gov,6800000.0,3.0,3.0,,,semi-furnished,https://www.squareyards.com/resale-3-bhk-1450-sq-ft-villa-in-govindpura-kalwar-road/8915363,1450.0
+980,villa,sirsi road, Sirsi Road,9501000.0,3.0,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-2121-sq-ft-villa-in-dream-villa-radha-vihar/9187773,2121.0
+981,villa,kalwar road, Kalwar Road,6200000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1700-sq-ft-villa-in-kalwar-road/8642498,1700.0
+982,villa,ajmer road, Ajmer Road,6074000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-71-sq-mt-villa-in-ajmer-road/9437324,710.0
+983,villa,ajmer road, Ajmer Road,6556000.0,3.0,3.0,1.0,,unfurnished,https://www.squareyards.com/resale-3-bhk-76-sq-mt-villa-in-ajmer-road/9437273,760.0
+985,villa,ajmer road, Ajmer Road,9500000.0,3.5,3.0,1.0,1.0,furnished,https://www.squareyards.com/resale-3-5-bhk-study-room-2210-sq-ft-villa-in-dream-villa-bhakhrota/9196260,2210.0
+986,villa,mansarovar, Patrakar Colony,22500000.0,3.0,3.0,1.0,1.0,unfurnished,https://www.squareyards.com/resale-3-bhk-80-sq-yd-villa-in-patrakar-colony/8967258,720.0
+987,villa,kalwar road, Kalwar Road,5500000.0,3.0,3.0,2.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-extra-room-1415-sq-ft-villa-in-ansal-sushant-city-ii/9481620,1415.0
+988,villa,kalwar road, Kalwar Road,6000000.0,3.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-1800-sq-ft-villa-in-kalwar-road/8156283,1800.0
+989,villa,jhotwara, Jhotwara,16000000.0,4.0,4.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-117-sq-yd-villa-in-jhotwara/8517207,737.1
+990,villa,gandhi path, Gandhi Path,18500000.0,4.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-1240-sq-ft-villa-in-gandhi-path/9456788,1240.0
+991,villa,vaishali nagar, Lalarpura,12500000.0,3.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-107-sq-yd-villa-in-jaipur-property-n-dream-h/9032285,674.1
+992,villa,mansarovar, Mansarovar Extension,22500000.0,5.0,5.0,2.0,1.0,semi-furnished,https://www.squareyards.com/resale-5-bhk-servant-room-study-room-138-sq-yd-villa-in-apni-zameen-apna-aasman/8978507,869.4
+994,villa,gandhi path, Gandhi Path,18500000.0,4.0,3.0,1.0,,furnished,https://www.squareyards.com/resale-4-bhk-1255-sq-ft-villa-in-gandhi-path/9456805,1255.0
+995,villa,mansarovar, Mansarovar Extension,18500000.0,4.0,5.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-135-sq-yd-villa-in-mansarovar-extension/8816956,850.5
+996,villa,chitrakoot, Chitrakoot,24100000.0,4.0,5.0,1.0,1.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-study-room-138-sq-yd-villa-in-chitrakoot/9107019,869.4
+998,villa,sanganer, Dadu Dayal Nagar,16500000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-2600-sq-ft-villa-in-apne-zameen-apna-aasman/9473409,2600.0
+999,villa,nirman nagar, Nirman Nagar,22100000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-extra-room-2400-sq-ft-villa-in-apni-zameen-apna-aasman/8180660,2086.0
+1001,villa,jagatpura, Jagatpura,17100000.0,3.0,4.0,2.0,1.0,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-study-room-extra-room-2000-sq-ft-villa-in-jaipur-property-hub/8943463,2000.0
+1002,villa,other, Kalwara,11600000.0,4.0,2.0,1.0,,semi-furnished,https://www.squareyards.com/resale-4-bhk-servant-room-152-sq-yd-villa-in-galaxy-enclave-kalwara/8669192,1368.0
+1003,villa,mansarovar, Mansarovar,9770000.0,3.0,4.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-study-room-768-sq-ft-villa-in-mansarovar/9136237,768.0
+1004,villa,vaishali nagar, Vaishali Nagar,35100000.0,4.0,4.0,1.0,2.0,furnished,https://www.squareyards.com/resale-4-bhk-pooja-room-servant-room-study-room-extra-room-200-sq-yd-villa-in-vaishali-nagar/8470834,1800.0
+1005,villa,kalwar road, Kalwar Road,6200000.0,4.0,4.0,1.0,2.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-1450-sq-ft-villa-in-villa-homes/9309113,1450.0
+1006,villa,jagatpura, Jagatpura,11500000.0,3.0,3.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-100-sq-yd-villa-in-ashadeep-residency-villa/9124811,782.0
+1007,villa,kalwar road, Kalwar Road,4600000.0,3.0,3.0,1.0,,semi-furnished,https://www.squareyards.com/resale-3-bhk-66-sq-yd-villa-in-kalwar-road/8921972,594.0
+1008,villa,jagatpura, Jagatpura,14000000.0,4.0,4.0,1.0,1.0,semi-furnished,https://www.squareyards.com/resale-4-bhk-133-sq-yd-villa-in-narsingh-villa-jagatpura/9175343,1197.0
+1009,villa,sirsi road, Sirsi Road,18000000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1900-sq-ft-villa-in-sirsi-road/9206665,1900.0
+1010,villa,sirsi road, Sirsi Road,19000000.0,3.0,4.0,,2.0,furnished,https://www.squareyards.com/resale-3-bhk-167-sq-yd-villa-in-sirsi-road/8737126,1503.0
+1011,villa,sirsi road, Sirsi Road,18000000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1538-sq-ft-villa-in-sirsi-road/9206544,1538.0
+1012,villa,sirsi road, Sirsi Road,19300000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1515-sq-ft-villa-in-sirsi-road/9298350,1515.0
+1013,villa,sirsi road, Sirsi Road,18000000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1889-sq-ft-villa-in-sirsi-road/9206660,1889.0
+1014,villa,sirsi road, Sirsi Road,19300000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1585-sq-ft-villa-in-sirsi-road/9298358,1585.0
+1015,villa,sirsi road, Sirsi Road,19500000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1700-sq-ft-villa-in-sirsi-road/9298373,1700.0
+1016,villa,gandhi path, Gandhi Path,11500000.0,3.0,2.0,2.0,,furnished,https://www.squareyards.com/resale-3-bhk-pooja-room-1905-sq-ft-villa-in-gandhi-path/9111931,1905.0
+1017,villa,mansarovar, Mansarovar Extension,19000000.0,6.0,4.0,,2.0,semi-furnished,https://www.squareyards.com/resale-6-bhk-210-sq-yd-villa-in-mansarovar-extension/8721500,1890.0
+1018,villa,sirsi road, Sirsi Road,19600000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1815-sq-ft-villa-in-sirsi-road/9298388,1815.0
+1019,villa,sirsi road, Sirsi Road,19700000.0,3.0,3.0,3.0,,furnished,https://www.squareyards.com/resale-3-bhk-1915-sq-ft-villa-in-sirsi-road/9298399,1915.0
