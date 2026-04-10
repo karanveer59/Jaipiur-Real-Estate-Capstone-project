@@ -1,0 +1,9 @@
+streamlit
+pickle
+pandas
+numpy
+sklearn
+plotly.express
+plotly.graph_objects
+seaborn
+matplotlib.pyplot
