@@ -57,14 +57,26 @@ The goal of this project is to help users understand property pricing patterns a
 
 ## 📁 Project Structure
 Jaipur-Real-Estate-Capstone-project/
+
 │
+
 ├── App/
+
 │ ├── home.py # Main entry point (Streamlit home page)
+
 │ │
+
 │ ├── pages/
+
 │ │ ├── Analytics.py # Analytics module
+
 │ │ ├── Prediction.py # Price prediction module
+
 │ │ ├── Recommendation.py # Recommendation system
+
 │ │ ├── Insights.py # What-if analysis module
+
 │ │
+
 │ ├── data/ # Dataset used in the application
+
