@@ -1,9 +1,8 @@
 streamlit
-pickle
 pandas
 numpy
-sklearn
-plotly.express
-plotly.graph_objects
+scikit-learn
+plotly
 seaborn
-matplotlib.pyplot
+matplotlib
+pickle

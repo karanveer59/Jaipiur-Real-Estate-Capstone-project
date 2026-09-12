@@ -462,9 +462,9 @@ def priceanalysis(property_type):
     location_area = df_view['location_area'].unique().tolist()
     col1, col2 = st.columns(2)
     with col1:
-        select_location1 = st.selectbox('Select Location Area', location_area, key='')
+        select_location1 = st.selectbox('Select Location Area', location_area, key='location1')
     with col2:
-        select_location2 = st.selectbox('Select Location Area', location_area, key='  ')
+        select_location2 = st.selectbox('Select Location Area', location_area, key='location2')
         
     fig_price = px.box( df_view[df_view['location_area'].isin([select_location1, select_location2])],
         x='location_area', y=y_col, color='location_area',
