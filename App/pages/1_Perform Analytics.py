@@ -30,7 +30,7 @@ property_type = st.radio(
 
 def load_data(property_type):
     if property_type == "🏢 Flat / Builder Floor":
-        df = pd.read_csv('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/flats_for_insight.csv')
+        df = pd.read_csv('data/flats_for_insight.csv')
         df = df.drop(columns=['Unnamed: 0'], errors='ignore')
         df['property_type'] = df['property_type'].str.strip().str.lower()
         df['furnished_status'] = df['furnished_status'].str.strip().str.lower()
@@ -47,7 +47,7 @@ def load_data(property_type):
         df['price_L'] = df['total_price'] / 100000
         df['location_area'] = df['location_area'].str.title()
     elif property_type == "🏠 Independent House / Villa":
-        df = pd.read_csv('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/house_insights (1).csv')
+        df = pd.read_csv('data/house_insights (1).csv')
         df['property_type'] = df['property_type'].str.strip().str.lower()
         df['furnished_status'] = df['furnished_status'].str.strip().str.lower()
         df['furnished_status'] = df['furnished_status'].replace({
@@ -61,7 +61,7 @@ def load_data(property_type):
         df['location_area'] = df['location_area'].str.title()
     
     elif property_type == "🌍 Plot":
-        df = pd.read_csv('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/plot_insights.csv')
+        df = pd.read_csv('data/plot_insights.csv')
         
         df['price_L'] = df['total_price'] / 100000
         # df['location_area'] = df['location_area'].str.title()
