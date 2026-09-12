@@ -10,10 +10,10 @@ import sklearn
 
 st.set_page_config(layout='wide')
 # ---------------import flats data------------------
-with open('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/flats_x_df.pkl', 'rb') as file:
+with open('data/flats_x_df.pkl', 'rb') as file:
     flats_df = pickle.load(file)
     
-with open('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/flats_pipeline.pkl', 'rb') as file1:
+with open('data/flats_pipeline.pkl', 'rb') as file1:
     flats_pipeline = pickle.load(file1)
     
 # --------------import independent house data ---------------------
