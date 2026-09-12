@@ -16,9 +16,9 @@ st.set_page_config(layout="wide")
 # with open("G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/pickle files/flats_recommendation_bundle.pkl",'rb') as flats_file:
 #     flats_bundle = pickle.load(flats_file)
 
-flats_df = pd.read_csv('App/data/flats_recommendation.csv')
-house_df = pd.read_csv('App/data/independent_house_recommendation.csv')
-plot_df = pd.read_csv('App/data/plot_recommendation.csv')
+flats_df = pd.read_csv('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/flats_recommendation.csv')
+house_df = pd.read_csv('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/independent_house_recommendation.csv')
+plot_df = pd.read_csv('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/plot_recommendation.csv')
 
 class recommendation_system:
     def __init__(self, property_type):
