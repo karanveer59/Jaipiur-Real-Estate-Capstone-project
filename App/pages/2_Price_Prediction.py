@@ -10,25 +10,25 @@ import sklearn
 
 st.set_page_config(layout='wide')
 # ---------------import flats data------------------
-with open('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/flats_x_df.pkl', 'rb') as file:
+with open('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/flats_x_df.pkl', 'rb') as file:
     flats_df = pickle.load(file)
     
-with open('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/flats_pipeline.pkl', 'rb') as file1:
+with open('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/flats_pipeline.pkl', 'rb') as file1:
     flats_pipeline = pickle.load(file1)
     
 # --------------import independent house data ---------------------
 
-with open('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/independent_house_x_df.pkl', 'rb') as ifile:
+with open('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/independent_house_x_df.pkl', 'rb') as ifile:
     house_df = pickle.load(ifile)
 
-with open('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/independent_house_pipeline.pkl', 'rb') as ifile1:
+with open('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/independent_house_pipeline.pkl', 'rb') as ifile1:
     house_pipeline = pickle.load(ifile1)
     
 # --------------import Plot data
-with open('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/plot_x_df.pkl','rb') as pfile:
+with open('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/plot_x_df.pkl','rb') as pfile:
     plot_df = pickle.load(pfile)
 
-with open('G:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/plot_pipeline.pkl','rb') as pfile1:
+with open('H:/My Drive/Data Science/Projects/CapStone Project Final Sem BCA/App/data/plot_pipeline.pkl','rb') as pfile1:
     plot_pipeline = pickle.load(pfile1)
 
     
